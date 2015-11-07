@@ -17,8 +17,8 @@
  */
 package com.game.pixeldungeonrewards.items.wands;
 
-import com.game.noosa.audio.Sample;
-import com.game.noosa.tweeners.AlphaTweener;
+import com.watabou.noosa.audio.Sample;
+import com.watabou.noosa.tweeners.AlphaTweener;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.actors.Actor;
@@ -26,7 +26,7 @@ import com.game.pixeldungeonrewards.actors.Char;
 import com.game.pixeldungeonrewards.effects.MagicMissile;
 import com.game.pixeldungeonrewards.effects.Speck;
 import com.game.pixeldungeonrewards.mechanics.Ballistica;
-import com.game.utils.Callback;
+import com.watabou.utils.Callback;
 
 public class WandOfBlink extends Wand {
 

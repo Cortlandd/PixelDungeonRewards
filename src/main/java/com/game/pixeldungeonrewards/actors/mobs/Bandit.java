@@ -24,7 +24,7 @@ import com.game.pixeldungeonrewards.actors.buffs.Buff;
 import com.game.pixeldungeonrewards.actors.hero.Hero;
 import com.game.pixeldungeonrewards.items.Item;
 import com.game.pixeldungeonrewards.sprites.BanditSprite;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class Bandit extends Thief {
 	

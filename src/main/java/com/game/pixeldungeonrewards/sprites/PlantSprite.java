@@ -17,9 +17,9 @@
  */
 package com.game.pixeldungeonrewards.sprites;
 
-import com.game.noosa.Game;
-import com.game.noosa.Image;
-import com.game.noosa.TextureFilm;
+import com.watabou.noosa.Game;
+import com.watabou.noosa.Image;
+import com.watabou.noosa.TextureFilm;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.DungeonTilemap;

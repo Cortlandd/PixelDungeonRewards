@@ -19,7 +19,7 @@ package com.game.pixeldungeonrewards.actors.mobs;
 
 import java.util.HashSet;
 
-import com.game.noosa.audio.Sample;
+import com.watabou.noosa.audio.Sample;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Badges;
 import com.game.pixeldungeonrewards.Statistics;
@@ -42,7 +42,7 @@ import com.game.pixeldungeonrewards.levels.Terrain;
 import com.game.pixeldungeonrewards.mechanics.Ballistica;
 import com.game.pixeldungeonrewards.scenes.GameScene;
 import com.game.pixeldungeonrewards.sprites.TenguSprite;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class Tengu extends Mob {
 

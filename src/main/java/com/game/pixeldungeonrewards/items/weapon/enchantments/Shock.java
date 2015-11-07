@@ -27,7 +27,7 @@ import com.game.pixeldungeonrewards.effects.particles.SparkParticle;
 import com.game.pixeldungeonrewards.items.weapon.Weapon;
 import com.game.pixeldungeonrewards.levels.Level;
 import com.game.pixeldungeonrewards.levels.traps.LightningTrap;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class Shock extends Weapon.Enchantment {
 

@@ -17,7 +17,7 @@
  */
 package com.game.pixeldungeonrewards.effects;
 
-import com.game.noosa.Game;
+import com.watabou.noosa.Game;
 import com.game.pixeldungeonrewards.actors.Char;
 import com.game.pixeldungeonrewards.items.Item;
 import com.game.pixeldungeonrewards.sprites.ItemSprite;

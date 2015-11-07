@@ -17,12 +17,12 @@
  */
 package com.game.pixeldungeonrewards.effects;
 
-import com.game.noosa.Game;
-import com.game.noosa.Visual;
+import com.watabou.noosa.Game;
+import com.watabou.noosa.Visual;
 import com.game.pixeldungeonrewards.actors.Actor;
 import com.game.pixeldungeonrewards.actors.Char;
 import com.game.pixeldungeonrewards.sprites.CharSprite;
-import com.game.utils.PointF;
+import com.watabou.utils.PointF;
 
 public class Pushing extends Actor {
 

@@ -49,8 +49,8 @@ import com.game.pixeldungeonrewards.sprites.WandmakerSprite;
 import com.game.pixeldungeonrewards.utils.Utils;
 import com.game.pixeldungeonrewards.windows.WndQuest;
 import com.game.pixeldungeonrewards.windows.WndWandmaker;
-import com.game.utils.Bundle;
-import com.game.utils.Random;
+import com.watabou.utils.Bundle;
+import com.watabou.utils.Random;
 
 public class Wandmaker extends NPC {
 

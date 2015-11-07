@@ -17,7 +17,7 @@
  */
 package com.game.pixeldungeonrewards.utils;
 
-import com.game.utils.Signal;
+import com.watabou.utils.Signal;
 
 import android.util.Log;
 

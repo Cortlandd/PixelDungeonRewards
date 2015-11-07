@@ -17,7 +17,7 @@
  */
 package com.game.pixeldungeonrewards.ui;
 
-import com.game.noosa.Image;
+import com.watabou.noosa.Image;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.scenes.PixelScene;
 

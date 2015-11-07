@@ -19,7 +19,7 @@ package com.game.pixeldungeonrewards.items;
 
 import java.util.ArrayList;
 
-import com.game.noosa.audio.Sample;
+import com.watabou.noosa.audio.Sample;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Badges;
 import com.game.pixeldungeonrewards.Dungeon;
@@ -29,8 +29,8 @@ import com.game.pixeldungeonrewards.scenes.GameScene;
 import com.game.pixeldungeonrewards.sprites.CharSprite;
 import com.game.pixeldungeonrewards.sprites.ItemSpriteSheet;
 import com.game.pixeldungeonrewards.utils.Utils;
-import com.game.utils.Bundle;
-import com.game.utils.Random;
+import com.watabou.utils.Bundle;
+import com.watabou.utils.Random;
 
 public class Gold extends Item {
 

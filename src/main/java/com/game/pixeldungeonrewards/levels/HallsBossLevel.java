@@ -17,7 +17,7 @@
  */
 package com.game.pixeldungeonrewards.levels;
 
-import com.game.noosa.Scene;
+import com.watabou.noosa.Scene;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Bones;
 import com.game.pixeldungeonrewards.Dungeon;
@@ -31,8 +31,8 @@ import com.game.pixeldungeonrewards.items.Item;
 import com.game.pixeldungeonrewards.items.keys.SkeletonKey;
 import com.game.pixeldungeonrewards.levels.painters.Painter;
 import com.game.pixeldungeonrewards.scenes.GameScene;
-import com.game.utils.Bundle;
-import com.game.utils.Random;
+import com.watabou.utils.Bundle;
+import com.watabou.utils.Random;
 
 public class HallsBossLevel extends Level {
 	

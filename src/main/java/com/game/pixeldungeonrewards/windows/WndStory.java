@@ -17,15 +17,15 @@
  */
 package com.game.pixeldungeonrewards.windows;
 
-import com.game.input.Touchscreen.Touch;
-import com.game.noosa.BitmapTextMultiline;
-import com.game.noosa.Game;
-import com.game.noosa.TouchArea;
+import com.watabou.input.Touchscreen.Touch;
+import com.watabou.noosa.BitmapTextMultiline;
+import com.watabou.noosa.Game;
+import com.watabou.noosa.TouchArea;
 import com.game.pixeldungeonrewards.Chrome;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.scenes.PixelScene;
 import com.game.pixeldungeonrewards.ui.Window;
-import com.game.utils.SparseArray;
+import com.watabou.utils.SparseArray;
 
 public class WndStory extends Window {
 

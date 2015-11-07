@@ -26,7 +26,7 @@ import com.game.pixeldungeonrewards.levels.Level;
 import com.game.pixeldungeonrewards.scenes.GameScene;
 import com.game.pixeldungeonrewards.sprites.ItemSprite;
 import com.game.pixeldungeonrewards.sprites.ItemSprite.Glowing;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class Stench extends Glyph {
 

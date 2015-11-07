@@ -28,7 +28,7 @@ import com.game.pixeldungeonrewards.items.Item;
 import com.game.pixeldungeonrewards.levels.Level;
 import com.game.pixeldungeonrewards.scenes.GameScene;
 import com.game.pixeldungeonrewards.sprites.ItemSpriteSheet;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class IncendiaryDart extends MissileWeapon {
 

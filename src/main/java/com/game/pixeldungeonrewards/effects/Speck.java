@@ -21,13 +21,13 @@ import android.annotation.SuppressLint;
 import android.util.FloatMath;
 import android.util.SparseArray;
 
-import com.game.noosa.Game;
-import com.game.noosa.Image;
-import com.game.noosa.TextureFilm;
-import com.game.noosa.particles.Emitter;
+import com.watabou.noosa.Game;
+import com.watabou.noosa.Image;
+import com.watabou.noosa.TextureFilm;
+import com.watabou.noosa.particles.Emitter;
 import com.game.pixeldungeonrewards.Assets;
-import com.game.utils.PointF;
-import com.game.utils.Random;
+import com.watabou.utils.PointF;
+import com.watabou.utils.Random;
 
 public class Speck extends Image {
 

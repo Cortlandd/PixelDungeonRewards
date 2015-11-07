@@ -19,7 +19,7 @@ package com.game.pixeldungeonrewards.items;
 
 import java.util.ArrayList;
 
-import com.game.noosa.audio.Sample;
+import com.watabou.noosa.audio.Sample;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.actors.hero.Hero;
 import com.game.pixeldungeonrewards.effects.Speck;
@@ -29,7 +29,7 @@ import com.game.pixeldungeonrewards.sprites.ItemSprite.Glowing;
 import com.game.pixeldungeonrewards.sprites.ItemSpriteSheet;
 import com.game.pixeldungeonrewards.utils.GLog;
 import com.game.pixeldungeonrewards.utils.Utils;
-import com.game.utils.Bundle;
+import com.watabou.utils.Bundle;
 
 public class DewVial extends Item {
 

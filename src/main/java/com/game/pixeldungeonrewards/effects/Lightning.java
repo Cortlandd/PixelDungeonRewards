@@ -21,15 +21,15 @@ import javax.microedition.khronos.opengles.GL10;
 
 import android.opengl.GLES20;
 
-import com.game.noosa.Game;
-import com.game.noosa.Group;
-import com.game.noosa.Image;
-import com.game.noosa.audio.Sample;
+import com.watabou.noosa.Game;
+import com.watabou.noosa.Group;
+import com.watabou.noosa.Image;
+import com.watabou.noosa.audio.Sample;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.DungeonTilemap;
 import com.game.pixeldungeonrewards.levels.Level;
-import com.game.utils.Callback;
-import com.game.utils.Random;
+import com.watabou.utils.Callback;
+import com.watabou.utils.Random;
 
 public class Lightning extends Group {
 

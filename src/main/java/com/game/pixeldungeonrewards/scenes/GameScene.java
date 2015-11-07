@@ -20,14 +20,14 @@ package com.game.pixeldungeonrewards.scenes;
 import java.io.IOException;
 import java.util.ArrayList;
 
-import com.game.noosa.Camera;
-import com.game.noosa.Game;
-import com.game.noosa.Group;
-import com.game.noosa.SkinnedBlock;
-import com.game.noosa.Visual;
-import com.game.noosa.audio.Music;
-import com.game.noosa.audio.Sample;
-import com.game.noosa.particles.Emitter;
+import com.watabou.noosa.Camera;
+import com.watabou.noosa.Game;
+import com.watabou.noosa.Group;
+import com.watabou.noosa.SkinnedBlock;
+import com.watabou.noosa.Visual;
+import com.watabou.noosa.audio.Music;
+import com.watabou.noosa.audio.Sample;
+import com.watabou.noosa.particles.Emitter;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Badges;
 import com.game.pixeldungeonrewards.Dungeon;
@@ -73,7 +73,7 @@ import com.game.pixeldungeonrewards.windows.WndBag.Mode;
 import com.game.pixeldungeonrewards.windows.WndGame;
 import com.game.pixeldungeonrewards.windows.WndBag;
 import com.game.pixeldungeonrewards.windows.WndStory;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class GameScene extends PixelScene {
 	

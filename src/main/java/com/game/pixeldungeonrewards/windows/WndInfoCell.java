@@ -17,8 +17,8 @@
  */
 package com.game.pixeldungeonrewards.windows;
 
-import com.game.noosa.BitmapTextMultiline;
-import com.game.noosa.Image;
+import com.watabou.noosa.BitmapTextMultiline;
+import com.watabou.noosa.Image;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.DungeonTilemap;
 import com.game.pixeldungeonrewards.actors.blobs.Blob;

@@ -20,7 +20,7 @@ package com.game.pixeldungeonrewards;
 import java.util.HashMap;
 
 import com.game.pixeldungeonrewards.actors.hero.HeroClass;
-import com.game.utils.Bundle;
+import com.watabou.utils.Bundle;
 
 public class GamesInProgress {
 

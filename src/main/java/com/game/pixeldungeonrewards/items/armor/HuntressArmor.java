@@ -29,7 +29,7 @@ import com.game.pixeldungeonrewards.levels.Level;
 import com.game.pixeldungeonrewards.sprites.ItemSpriteSheet;
 import com.game.pixeldungeonrewards.sprites.MissileSprite;
 import com.game.pixeldungeonrewards.utils.GLog;
-import com.game.utils.Callback;
+import com.watabou.utils.Callback;
 
 public class HuntressArmor extends ClassArmor {
 	

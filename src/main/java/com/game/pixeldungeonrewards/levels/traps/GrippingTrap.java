@@ -23,7 +23,7 @@ import com.game.pixeldungeonrewards.actors.buffs.Bleeding;
 import com.game.pixeldungeonrewards.actors.buffs.Buff;
 import com.game.pixeldungeonrewards.actors.buffs.Cripple;
 import com.game.pixeldungeonrewards.effects.Wound;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class GrippingTrap {
 	

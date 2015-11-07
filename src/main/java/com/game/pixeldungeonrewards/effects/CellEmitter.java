@@ -17,10 +17,10 @@
  */
 package com.game.pixeldungeonrewards.effects;
 
-import com.game.noosa.particles.Emitter;
+import com.watabou.noosa.particles.Emitter;
 import com.game.pixeldungeonrewards.DungeonTilemap;
 import com.game.pixeldungeonrewards.scenes.GameScene;
-import com.game.utils.PointF;
+import com.watabou.utils.PointF;
 
 public class CellEmitter {
 

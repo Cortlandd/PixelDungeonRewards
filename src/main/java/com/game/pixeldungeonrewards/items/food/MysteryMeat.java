@@ -27,7 +27,7 @@ import com.game.pixeldungeonrewards.actors.buffs.Slow;
 import com.game.pixeldungeonrewards.actors.hero.Hero;
 import com.game.pixeldungeonrewards.sprites.ItemSpriteSheet;
 import com.game.pixeldungeonrewards.utils.GLog;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class MysteryMeat extends Food {
 

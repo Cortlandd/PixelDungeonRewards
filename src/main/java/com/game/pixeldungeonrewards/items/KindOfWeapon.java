@@ -23,7 +23,7 @@ import com.game.pixeldungeonrewards.actors.Char;
 import com.game.pixeldungeonrewards.actors.hero.Hero;
 import com.game.pixeldungeonrewards.ui.QuickSlot;
 import com.game.pixeldungeonrewards.utils.GLog;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 abstract public class KindOfWeapon extends EquipableItem {
 

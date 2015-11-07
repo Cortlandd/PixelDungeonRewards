@@ -17,8 +17,8 @@
  */
 package com.game.pixeldungeonrewards.items.wands;
 
-import com.game.noosa.Camera;
-import com.game.noosa.audio.Sample;
+import com.watabou.noosa.Camera;
+import com.watabou.noosa.audio.Sample;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.ResultDescriptions;
@@ -36,9 +36,9 @@ import com.game.pixeldungeonrewards.scenes.GameScene;
 import com.game.pixeldungeonrewards.utils.BArray;
 import com.game.pixeldungeonrewards.utils.GLog;
 import com.game.pixeldungeonrewards.utils.Utils;
-import com.game.utils.Callback;
-import com.game.utils.PathFinder;
-import com.game.utils.Random;
+import com.watabou.utils.Callback;
+import com.watabou.utils.PathFinder;
+import com.watabou.utils.Random;
 
 public class WandOfAvalanche extends Wand {
 

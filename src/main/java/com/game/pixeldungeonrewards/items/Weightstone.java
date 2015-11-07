@@ -19,8 +19,8 @@ package com.game.pixeldungeonrewards.items;
 
 import java.util.ArrayList;
 
-import com.game.noosa.BitmapTextMultiline;
-import com.game.noosa.audio.Sample;
+import com.watabou.noosa.BitmapTextMultiline;
+import com.watabou.noosa.audio.Sample;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.actors.hero.Hero;
 import com.game.pixeldungeonrewards.items.weapon.Weapon;

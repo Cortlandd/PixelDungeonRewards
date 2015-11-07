@@ -19,11 +19,11 @@ package com.game.pixeldungeonrewards.windows;
 
 import java.util.ArrayList;
 
-import com.game.noosa.BitmapText;
-import com.game.noosa.Game;
-import com.game.noosa.NinePatch;
-import com.game.noosa.audio.Sample;
-import com.game.noosa.ui.Button;
+import com.watabou.noosa.BitmapText;
+import com.watabou.noosa.Game;
+import com.watabou.noosa.NinePatch;
+import com.watabou.noosa.audio.Sample;
+import com.watabou.noosa.ui.Button;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Chrome;
 import com.game.pixeldungeonrewards.scenes.PixelScene;

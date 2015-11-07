@@ -19,7 +19,7 @@ package com.game.pixeldungeonrewards.items.scrolls;
 
 import java.util.ArrayList;
 
-import com.game.noosa.audio.Sample;
+import com.watabou.noosa.audio.Sample;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.actors.buffs.Blindness;
@@ -36,7 +36,7 @@ import com.game.pixeldungeonrewards.scenes.GameScene;
 import com.game.pixeldungeonrewards.sprites.HeroSprite;
 import com.game.pixeldungeonrewards.sprites.ItemSpriteSheet;
 import com.game.pixeldungeonrewards.utils.GLog;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class ScrollOfWipeOut extends Item {
 

@@ -17,11 +17,11 @@
  */
 package com.game.pixeldungeonrewards.ui;
 
-import com.game.noosa.Camera;
-import com.game.noosa.Image;
+import com.watabou.noosa.Camera;
+import com.watabou.noosa.Image;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.DungeonTilemap;
-import com.game.utils.PointF;
+import com.watabou.utils.PointF;
 
 public class Compass extends Image {
 

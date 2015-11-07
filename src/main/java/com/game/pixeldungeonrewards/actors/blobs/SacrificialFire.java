@@ -17,7 +17,7 @@
  */
 package com.game.pixeldungeonrewards.actors.blobs;
 
-import com.game.noosa.audio.Sample;
+import com.watabou.noosa.audio.Sample;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.DungeonTilemap;
@@ -37,8 +37,8 @@ import com.game.pixeldungeonrewards.items.scrolls.ScrollOfWipeOut;
 import com.game.pixeldungeonrewards.scenes.GameScene;
 import com.game.pixeldungeonrewards.ui.BuffIndicator;
 import com.game.pixeldungeonrewards.utils.GLog;
-import com.game.utils.Bundle;
-import com.game.utils.Random;
+import com.watabou.utils.Bundle;
+import com.watabou.utils.Random;
 
 public class SacrificialFire extends Blob {
 	

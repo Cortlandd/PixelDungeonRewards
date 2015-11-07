@@ -19,12 +19,12 @@ package com.game.pixeldungeonrewards.windows;
 
 import java.util.Locale;
 
-import com.game.gltextures.SmartTexture;
-import com.game.gltextures.TextureCache;
-import com.game.noosa.BitmapText;
-import com.game.noosa.Group;
-import com.game.noosa.Image;
-import com.game.noosa.TextureFilm;
+import com.watabou.gltextures.SmartTexture;
+import com.watabou.gltextures.TextureCache;
+import com.watabou.noosa.BitmapText;
+import com.watabou.noosa.Group;
+import com.watabou.noosa.Image;
+import com.watabou.noosa.TextureFilm;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.Statistics;

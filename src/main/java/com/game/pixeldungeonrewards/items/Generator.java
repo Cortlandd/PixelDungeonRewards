@@ -34,7 +34,7 @@ import com.game.pixeldungeonrewards.items.weapon.*;
 import com.game.pixeldungeonrewards.items.weapon.melee.*;
 import com.game.pixeldungeonrewards.items.weapon.missiles.*;
 import com.game.pixeldungeonrewards.plants.*;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class Generator {
 

@@ -21,14 +21,14 @@ import javax.microedition.khronos.opengles.GL10;
 
 import android.opengl.GLES20;
 
-import com.game.noosa.Game;
-import com.game.noosa.TextureFilm;
-import com.game.noosa.audio.Sample;
+import com.watabou.noosa.Game;
+import com.watabou.noosa.TextureFilm;
+import com.watabou.noosa.audio.Sample;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.actors.Char;
 import com.game.pixeldungeonrewards.effects.Halo;
 import com.game.pixeldungeonrewards.effects.particles.ElmoParticle;
-import com.game.utils.PointF;
+import com.watabou.utils.PointF;
 
 public class WandmakerSprite extends MobSprite {
 	

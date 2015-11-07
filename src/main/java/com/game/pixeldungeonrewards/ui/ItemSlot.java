@@ -17,8 +17,8 @@
  */
 package com.game.pixeldungeonrewards.ui;
 
-import com.game.noosa.BitmapText;
-import com.game.noosa.ui.Button;
+import com.watabou.noosa.BitmapText;
+import com.watabou.noosa.ui.Button;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.items.Item;
 import com.game.pixeldungeonrewards.items.armor.Armor;

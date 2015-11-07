@@ -20,7 +20,7 @@ package com.game.pixeldungeonrewards.actors.mobs;
 import com.game.pixeldungeonrewards.actors.Char;
 import com.game.pixeldungeonrewards.actors.mobs.Yog.BurningFist;
 import com.game.pixeldungeonrewards.actors.mobs.Yog.RottingFist;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class Bestiary {
 

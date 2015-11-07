@@ -24,7 +24,7 @@ import com.game.pixeldungeonrewards.effects.particles.ShadowParticle;
 import com.game.pixeldungeonrewards.items.weapon.Weapon;
 import com.game.pixeldungeonrewards.sprites.ItemSprite;
 import com.game.pixeldungeonrewards.sprites.ItemSprite.Glowing;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class Death extends Weapon.Enchantment {
 

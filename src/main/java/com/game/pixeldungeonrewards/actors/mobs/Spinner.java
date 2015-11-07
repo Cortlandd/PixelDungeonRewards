@@ -29,7 +29,7 @@ import com.game.pixeldungeonrewards.actors.buffs.Terror;
 import com.game.pixeldungeonrewards.items.food.MysteryMeat;
 import com.game.pixeldungeonrewards.scenes.GameScene;
 import com.game.pixeldungeonrewards.sprites.SpinnerSprite;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class Spinner extends Mob {
 	

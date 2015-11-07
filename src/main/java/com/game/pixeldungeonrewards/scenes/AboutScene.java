@@ -20,12 +20,12 @@ package com.game.pixeldungeonrewards.scenes;
 import android.content.Intent;
 import android.net.Uri;
 
-import com.game.input.Touchscreen.Touch;
-import com.game.noosa.BitmapTextMultiline;
-import com.game.noosa.Camera;
-import com.game.noosa.Game;
-import com.game.noosa.Image;
-import com.game.noosa.TouchArea;
+import com.watabou.input.Touchscreen.Touch;
+import com.watabou.noosa.BitmapTextMultiline;
+import com.watabou.noosa.Camera;
+import com.watabou.noosa.Game;
+import com.watabou.noosa.Image;
+import com.watabou.noosa.TouchArea;
 import com.game.pixeldungeonrewards.PixelDungeon;
 import com.game.pixeldungeonrewards.effects.Flare;
 import com.game.pixeldungeonrewards.ui.Archs;

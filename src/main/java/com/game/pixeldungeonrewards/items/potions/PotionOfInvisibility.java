@@ -17,8 +17,8 @@
  */
 package com.game.pixeldungeonrewards.items.potions;
 
-import com.game.noosa.audio.Sample;
-import com.game.noosa.tweeners.AlphaTweener;
+import com.watabou.noosa.audio.Sample;
+import com.watabou.noosa.tweeners.AlphaTweener;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.actors.Char;
 import com.game.pixeldungeonrewards.actors.buffs.Buff;

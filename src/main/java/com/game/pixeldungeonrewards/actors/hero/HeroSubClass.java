@@ -17,7 +17,7 @@
  */
 package com.game.pixeldungeonrewards.actors.hero;
 
-import com.game.utils.Bundle;
+import com.watabou.utils.Bundle;
 
 public enum HeroSubClass {
 

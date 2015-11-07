@@ -17,9 +17,9 @@
  */
 package com.game.pixeldungeonrewards.ui;
 
-import com.game.gltextures.TextureCache;
-import com.game.noosa.Image;
-import com.game.noosa.ui.Component;
+import com.watabou.gltextures.TextureCache;
+import com.watabou.noosa.Image;
+import com.watabou.noosa.ui.Component;
 import com.game.pixeldungeonrewards.actors.Char;
 import com.game.pixeldungeonrewards.sprites.CharSprite;
 

@@ -19,7 +19,7 @@ package com.game.pixeldungeonrewards.items.keys;
 
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.items.Item;
-import com.game.utils.Bundle;
+import com.watabou.utils.Bundle;
 
 public class Key extends Item {
 

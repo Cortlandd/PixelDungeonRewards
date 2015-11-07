@@ -20,7 +20,7 @@ package com.game.pixeldungeonrewards.actors.buffs;
 import com.game.pixeldungeonrewards.actors.Char;
 import com.game.pixeldungeonrewards.items.rings.RingOfElements.Resistance;
 import com.game.pixeldungeonrewards.ui.BuffIndicator;
-import com.game.utils.Bundle;
+import com.watabou.utils.Bundle;
 
 public class Charm extends FlavourBuff {
 	

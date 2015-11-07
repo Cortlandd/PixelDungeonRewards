@@ -19,7 +19,7 @@ package com.game.pixeldungeonrewards.items.weapon.missiles;
 
 import com.game.pixeldungeonrewards.items.Item;
 import com.game.pixeldungeonrewards.sprites.ItemSpriteSheet;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class Shuriken extends MissileWeapon {
 

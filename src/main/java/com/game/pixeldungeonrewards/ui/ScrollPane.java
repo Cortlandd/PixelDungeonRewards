@@ -17,14 +17,14 @@
  */
 package com.game.pixeldungeonrewards.ui;
 
-import com.game.input.Touchscreen.Touch;
-import com.game.noosa.Camera;
-import com.game.noosa.ColorBlock;
-import com.game.noosa.TouchArea;
-import com.game.noosa.ui.Component;
+import com.watabou.input.Touchscreen.Touch;
+import com.watabou.noosa.Camera;
+import com.watabou.noosa.ColorBlock;
+import com.watabou.noosa.TouchArea;
+import com.watabou.noosa.ui.Component;
 import com.game.pixeldungeonrewards.scenes.PixelScene;
-import com.game.utils.Point;
-import com.game.utils.PointF;
+import com.watabou.utils.Point;
+import com.watabou.utils.PointF;
 
 public class ScrollPane extends Component {
 

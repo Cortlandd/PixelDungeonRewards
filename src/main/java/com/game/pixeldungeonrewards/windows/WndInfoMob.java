@@ -17,8 +17,8 @@
  */
 package com.game.pixeldungeonrewards.windows;
 
-import com.game.noosa.BitmapText;
-import com.game.noosa.ui.Component;
+import com.watabou.noosa.BitmapText;
+import com.watabou.noosa.ui.Component;
 import com.game.pixeldungeonrewards.actors.mobs.Mob;
 import com.game.pixeldungeonrewards.scenes.PixelScene;
 import com.game.pixeldungeonrewards.sprites.CharSprite;

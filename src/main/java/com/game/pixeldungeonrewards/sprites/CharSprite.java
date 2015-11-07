@@ -17,13 +17,13 @@
  */
 package com.game.pixeldungeonrewards.sprites;
 
-import com.game.noosa.Game;
-import com.game.noosa.MovieClip;
-import com.game.noosa.Visual;
-import com.game.noosa.audio.Sample;
-import com.game.noosa.particles.Emitter;
-import com.game.noosa.tweeners.PosTweener;
-import com.game.noosa.tweeners.Tweener;
+import com.watabou.noosa.Game;
+import com.watabou.noosa.MovieClip;
+import com.watabou.noosa.Visual;
+import com.watabou.noosa.audio.Sample;
+import com.watabou.noosa.particles.Emitter;
+import com.watabou.noosa.tweeners.PosTweener;
+import com.watabou.noosa.tweeners.Tweener;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.DungeonTilemap;
 import com.game.pixeldungeonrewards.actors.Char;
@@ -38,9 +38,9 @@ import com.game.pixeldungeonrewards.items.potions.PotionOfInvisibility;
 import com.game.pixeldungeonrewards.levels.Level;
 import com.game.pixeldungeonrewards.scenes.GameScene;
 import com.game.pixeldungeonrewards.utils.Utils;
-import com.game.utils.Callback;
-import com.game.utils.PointF;
-import com.game.utils.Random;
+import com.watabou.utils.Callback;
+import com.watabou.utils.PointF;
+import com.watabou.utils.Random;
 
 public class CharSprite extends MovieClip implements Tweener.Listener, MovieClip.Listener {
 	

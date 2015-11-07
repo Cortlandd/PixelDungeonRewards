@@ -1,9 +1,9 @@
 package com.game.pixeldungeonrewards.ui;
 
-import com.game.noosa.BitmapTextMultiline;
-import com.game.noosa.ui.Component;
+import com.watabou.noosa.BitmapTextMultiline;
+import com.watabou.noosa.ui.Component;
 import com.game.pixeldungeonrewards.scenes.PixelScene;
-import com.game.utils.Highlighter;
+import com.watabou.utils.Highlighter;
 
 public class HighlightedText extends Component {
 

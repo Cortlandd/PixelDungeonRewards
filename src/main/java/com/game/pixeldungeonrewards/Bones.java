@@ -21,12 +21,12 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
 
-import com.game.noosa.Game;
+import com.watabou.noosa.Game;
 import com.game.pixeldungeonrewards.items.Gold;
 import com.game.pixeldungeonrewards.items.Item;
 import com.game.pixeldungeonrewards.items.rings.Ring;
-import com.game.utils.Bundle;
-import com.game.utils.Random;
+import com.watabou.utils.Bundle;
+import com.watabou.utils.Random;
 
 public class Bones {
 

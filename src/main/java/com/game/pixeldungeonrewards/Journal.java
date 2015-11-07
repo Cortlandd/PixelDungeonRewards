@@ -19,8 +19,8 @@ package com.game.pixeldungeonrewards;
 
 import java.util.ArrayList;
 
-import com.game.utils.Bundlable;
-import com.game.utils.Bundle;
+import com.watabou.utils.Bundlable;
+import com.watabou.utils.Bundle;
 
 public class Journal {
 

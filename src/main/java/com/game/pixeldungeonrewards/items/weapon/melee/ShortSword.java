@@ -19,7 +19,7 @@ package com.game.pixeldungeonrewards.items.weapon.melee;
 
 import java.util.ArrayList;
 
-import com.game.noosa.audio.Sample;
+import com.watabou.noosa.audio.Sample;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Badges;
 import com.game.pixeldungeonrewards.actors.hero.Hero;

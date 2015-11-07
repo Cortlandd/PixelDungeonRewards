@@ -19,7 +19,7 @@ package com.game.pixeldungeonrewards.actors.mobs;
 
 import java.util.HashSet;
 
-import com.game.noosa.tweeners.AlphaTweener;
+import com.watabou.noosa.tweeners.AlphaTweener;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.actors.Actor;
 import com.game.pixeldungeonrewards.actors.Char;
@@ -29,8 +29,8 @@ import com.game.pixeldungeonrewards.items.weapon.enchantments.Death;
 import com.game.pixeldungeonrewards.levels.Level;
 import com.game.pixeldungeonrewards.scenes.GameScene;
 import com.game.pixeldungeonrewards.sprites.WraithSprite;
-import com.game.utils.Bundle;
-import com.game.utils.Random;
+import com.watabou.utils.Bundle;
+import com.watabou.utils.Random;
 
 public class Wraith extends Mob {
 

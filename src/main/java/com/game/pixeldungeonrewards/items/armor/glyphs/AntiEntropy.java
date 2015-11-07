@@ -29,7 +29,7 @@ import com.game.pixeldungeonrewards.items.armor.Armor.Glyph;
 import com.game.pixeldungeonrewards.levels.Level;
 import com.game.pixeldungeonrewards.sprites.ItemSprite;
 import com.game.pixeldungeonrewards.sprites.ItemSprite.Glowing;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class AntiEntropy extends Glyph {
 

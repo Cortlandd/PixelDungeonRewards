@@ -19,13 +19,13 @@ package com.game.pixeldungeonrewards.scenes;
 
 import java.util.List;
 
-import com.game.noosa.BitmapText;
-import com.game.noosa.Camera;
-import com.game.noosa.Game;
-import com.game.noosa.Image;
-import com.game.noosa.audio.Music;
-import com.game.noosa.audio.Sample;
-import com.game.noosa.ui.Button;
+import com.watabou.noosa.BitmapText;
+import com.watabou.noosa.Camera;
+import com.watabou.noosa.Game;
+import com.watabou.noosa.Image;
+import com.watabou.noosa.audio.Music;
+import com.watabou.noosa.audio.Sample;
+import com.watabou.noosa.ui.Button;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Badges;
 import com.game.pixeldungeonrewards.PixelDungeon;
@@ -34,8 +34,8 @@ import com.game.pixeldungeonrewards.ui.Archs;
 import com.game.pixeldungeonrewards.ui.ExitButton;
 import com.game.pixeldungeonrewards.ui.Window;
 import com.game.pixeldungeonrewards.windows.WndBadge;
-import com.game.utils.Callback;
-import com.game.utils.Random;
+import com.watabou.utils.Callback;
+import com.watabou.utils.Random;
 
 public class BadgesScene extends PixelScene {
 	

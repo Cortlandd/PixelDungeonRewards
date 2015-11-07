@@ -21,7 +21,7 @@ import javax.microedition.khronos.opengles.GL10;
 
 import android.opengl.GLES20;
 
-import com.game.noosa.TextureFilm;
+import com.watabou.noosa.TextureFilm;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.effects.Speck;
 import com.game.pixeldungeonrewards.effects.particles.ShaftParticle;

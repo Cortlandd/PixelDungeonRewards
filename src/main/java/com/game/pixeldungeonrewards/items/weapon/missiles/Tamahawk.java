@@ -22,7 +22,7 @@ import com.game.pixeldungeonrewards.actors.buffs.Bleeding;
 import com.game.pixeldungeonrewards.actors.buffs.Buff;
 import com.game.pixeldungeonrewards.items.Item;
 import com.game.pixeldungeonrewards.sprites.ItemSpriteSheet;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class Tamahawk extends MissileWeapon {
 

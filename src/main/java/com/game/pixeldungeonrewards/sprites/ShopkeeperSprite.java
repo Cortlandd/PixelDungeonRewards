@@ -17,8 +17,8 @@
  */
 package com.game.pixeldungeonrewards.sprites;
 
-import com.game.noosa.TextureFilm;
-import com.game.noosa.particles.PixelParticle;
+import com.watabou.noosa.TextureFilm;
+import com.watabou.noosa.particles.PixelParticle;
 import com.game.pixeldungeonrewards.Assets;
 
 public class ShopkeeperSprite extends MobSprite {

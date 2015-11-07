@@ -19,7 +19,7 @@ package com.game.pixeldungeonrewards.items.quest;
 
 import java.util.ArrayList;
 
-import com.game.noosa.audio.Sample;
+import com.watabou.noosa.audio.Sample;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.actors.buffs.Buff;
 import com.game.pixeldungeonrewards.actors.buffs.Invisibility;

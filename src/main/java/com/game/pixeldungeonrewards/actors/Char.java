@@ -19,8 +19,8 @@ package com.game.pixeldungeonrewards.actors;
 
 import java.util.HashSet;
 
-import com.game.noosa.Camera;
-import com.game.noosa.audio.Sample;
+import com.watabou.noosa.Camera;
+import com.watabou.noosa.audio.Sample;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.ResultDescriptions;
@@ -55,10 +55,10 @@ import com.game.pixeldungeonrewards.levels.features.Door;
 import com.game.pixeldungeonrewards.sprites.CharSprite;
 import com.game.pixeldungeonrewards.utils.GLog;
 import com.game.pixeldungeonrewards.utils.Utils;
-import com.game.utils.Bundlable;
-import com.game.utils.Bundle;
-import com.game.utils.GameMath;
-import com.game.utils.Random;
+import com.watabou.utils.Bundlable;
+import com.watabou.utils.Bundle;
+import com.watabou.utils.GameMath;
+import com.watabou.utils.Random;
 
 public abstract class Char extends Actor {
 

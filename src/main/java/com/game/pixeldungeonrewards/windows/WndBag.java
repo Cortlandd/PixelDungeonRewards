@@ -19,11 +19,11 @@ package com.game.pixeldungeonrewards.windows;
 
 import android.graphics.RectF;
 
-import com.game.gltextures.TextureCache;
-import com.game.noosa.BitmapText;
-import com.game.noosa.ColorBlock;
-import com.game.noosa.Image;
-import com.game.noosa.audio.Sample;
+import com.watabou.gltextures.TextureCache;
+import com.watabou.noosa.BitmapText;
+import com.watabou.noosa.ColorBlock;
+import com.watabou.noosa.Image;
+import com.watabou.noosa.audio.Sample;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.PixelDungeon;
@@ -48,7 +48,7 @@ import com.game.pixeldungeonrewards.ui.Icons;
 import com.game.pixeldungeonrewards.ui.ItemSlot;
 import com.game.pixeldungeonrewards.ui.QuickSlot;
 import com.game.pixeldungeonrewards.utils.Utils;
-import com.game.utils.GameMath;
+import com.watabou.utils.GameMath;
 
 public class WndBag extends WndTabbed {
 	

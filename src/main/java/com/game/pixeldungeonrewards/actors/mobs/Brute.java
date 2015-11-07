@@ -26,8 +26,8 @@ import com.game.pixeldungeonrewards.items.Gold;
 import com.game.pixeldungeonrewards.sprites.BruteSprite;
 import com.game.pixeldungeonrewards.sprites.CharSprite;
 import com.game.pixeldungeonrewards.utils.GLog;
-import com.game.utils.Bundle;
-import com.game.utils.Random;
+import com.watabou.utils.Bundle;
+import com.watabou.utils.Random;
 
 public class Brute extends Mob {
 

@@ -17,7 +17,7 @@
  */
 package com.game.pixeldungeonrewards.plants;
 
-import com.game.noosa.Camera;
+import com.watabou.noosa.Camera;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.actors.Char;
 import com.game.pixeldungeonrewards.actors.buffs.Buff;
@@ -26,7 +26,7 @@ import com.game.pixeldungeonrewards.effects.particles.EarthParticle;
 import com.game.pixeldungeonrewards.items.potions.PotionOfParalyticGas;
 import com.game.pixeldungeonrewards.sprites.ItemSpriteSheet;
 import com.game.pixeldungeonrewards.ui.BuffIndicator;
-import com.game.utils.Bundle;
+import com.watabou.utils.Bundle;
 
 public class Earthroot extends Plant {
 

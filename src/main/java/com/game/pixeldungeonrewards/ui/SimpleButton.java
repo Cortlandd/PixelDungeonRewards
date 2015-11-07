@@ -17,10 +17,10 @@
  */
 package com.game.pixeldungeonrewards.ui;
 
-import com.game.input.Touchscreen.Touch;
-import com.game.noosa.Image;
-import com.game.noosa.TouchArea;
-import com.game.noosa.ui.Component;
+import com.watabou.input.Touchscreen.Touch;
+import com.watabou.noosa.Image;
+import com.watabou.noosa.TouchArea;
+import com.watabou.noosa.ui.Component;
 
 public class SimpleButton extends Component {
 			

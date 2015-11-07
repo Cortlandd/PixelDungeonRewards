@@ -17,11 +17,11 @@
  */
 package com.game.pixeldungeonrewards.effects;
 
-import com.game.noosa.Game;
-import com.game.noosa.Group;
-import com.game.noosa.particles.Emitter;
-import com.game.noosa.particles.PixelParticle;
-import com.game.noosa.particles.PixelParticle.Shrinking;
+import com.watabou.noosa.Game;
+import com.watabou.noosa.Group;
+import com.watabou.noosa.particles.Emitter;
+import com.watabou.noosa.particles.PixelParticle;
+import com.watabou.noosa.particles.PixelParticle.Shrinking;
 import com.game.pixeldungeonrewards.DungeonTilemap;
 import com.game.pixeldungeonrewards.effects.particles.FlameParticle;
 import com.game.pixeldungeonrewards.effects.particles.LeafParticle;
@@ -29,10 +29,10 @@ import com.game.pixeldungeonrewards.effects.particles.PoisonParticle;
 import com.game.pixeldungeonrewards.effects.particles.PurpleParticle;
 import com.game.pixeldungeonrewards.effects.particles.ShadowParticle;
 import com.game.pixeldungeonrewards.effects.particles.WoolParticle;
-import com.game.utils.Callback;
-import com.game.utils.ColorMath;
-import com.game.utils.PointF;
-import com.game.utils.Random;
+import com.watabou.utils.Callback;
+import com.watabou.utils.ColorMath;
+import com.watabou.utils.PointF;
+import com.watabou.utils.Random;
 
 public class MagicMissile extends Emitter {
 

@@ -30,7 +30,7 @@ import com.game.pixeldungeonrewards.items.food.Food;
 import com.game.pixeldungeonrewards.items.weapon.melee.Knuckles;
 import com.game.pixeldungeonrewards.sprites.MonkSprite;
 import com.game.pixeldungeonrewards.utils.GLog;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class Monk extends Mob {
 

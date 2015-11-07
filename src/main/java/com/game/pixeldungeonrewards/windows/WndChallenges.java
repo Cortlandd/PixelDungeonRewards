@@ -19,7 +19,7 @@ package com.game.pixeldungeonrewards.windows;
 
 import java.util.ArrayList;
 
-import com.game.noosa.BitmapText;
+import com.watabou.noosa.BitmapText;
 import com.game.pixeldungeonrewards.Challenges;
 import com.game.pixeldungeonrewards.PixelDungeon;
 import com.game.pixeldungeonrewards.scenes.PixelScene;

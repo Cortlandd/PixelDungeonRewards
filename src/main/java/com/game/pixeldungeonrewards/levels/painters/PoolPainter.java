@@ -26,7 +26,7 @@ import com.game.pixeldungeonrewards.items.potions.PotionOfInvisibility;
 import com.game.pixeldungeonrewards.levels.Level;
 import com.game.pixeldungeonrewards.levels.Room;
 import com.game.pixeldungeonrewards.levels.Terrain;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class PoolPainter extends Painter {
 

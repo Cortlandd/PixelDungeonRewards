@@ -22,7 +22,7 @@ import com.game.pixeldungeonrewards.actors.Char;
 import com.game.pixeldungeonrewards.actors.buffs.Buff;
 import com.game.pixeldungeonrewards.actors.buffs.Paralysis;
 import com.game.pixeldungeonrewards.sprites.SeniorSprite;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class Senior extends Monk {
 

@@ -17,7 +17,7 @@
  */
 package com.game.pixeldungeonrewards.windows;
 
-import com.game.noosa.BitmapTextMultiline;
+import com.watabou.noosa.BitmapTextMultiline;
 import com.game.pixeldungeonrewards.items.Heap;
 import com.game.pixeldungeonrewards.items.Heap.Type;
 import com.game.pixeldungeonrewards.items.Item;

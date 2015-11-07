@@ -17,8 +17,8 @@
  */
 package com.game.pixeldungeonrewards.ui;
 
-import com.game.noosa.ColorBlock;
-import com.game.noosa.ui.Component;
+import com.watabou.noosa.ColorBlock;
+import com.watabou.noosa.ui.Component;
 
 public class HealthBar extends Component {
 

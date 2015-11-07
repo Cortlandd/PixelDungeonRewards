@@ -22,7 +22,7 @@ import java.util.Collections;
 
 import com.game.pixeldungeonrewards.levels.Level;
 import com.game.pixeldungeonrewards.levels.Room;
-import com.game.utils.Point;
+import com.watabou.utils.Point;
 
 public class PassagePainter extends Painter {
 

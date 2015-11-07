@@ -17,9 +17,9 @@
  */
 package com.game.pixeldungeonrewards.effects;
 
-import com.game.gltextures.TextureCache;
-import com.game.noosa.Game;
-import com.game.noosa.Image;
+import com.watabou.gltextures.TextureCache;
+import com.watabou.noosa.Game;
+import com.watabou.noosa.Image;
 import com.game.pixeldungeonrewards.DungeonTilemap;
 
 public class CheckedCell extends Image {

@@ -17,9 +17,9 @@
  */
 package com.game.pixeldungeonrewards.ui;
 
-import com.game.noosa.BitmapText;
-import com.game.noosa.NinePatch;
-import com.game.noosa.ui.Component;
+import com.watabou.noosa.BitmapText;
+import com.watabou.noosa.NinePatch;
+import com.watabou.noosa.ui.Component;
 import com.game.pixeldungeonrewards.Chrome;
 import com.game.pixeldungeonrewards.scenes.PixelScene;
 

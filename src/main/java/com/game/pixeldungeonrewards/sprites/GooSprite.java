@@ -17,13 +17,13 @@
  */
 package com.game.pixeldungeonrewards.sprites;
 
-import com.game.noosa.TextureFilm;
-import com.game.noosa.particles.Emitter;
-import com.game.noosa.particles.PixelParticle;
-import com.game.noosa.particles.Emitter.Factory;
+import com.watabou.noosa.TextureFilm;
+import com.watabou.noosa.particles.Emitter;
+import com.watabou.noosa.particles.PixelParticle;
+import com.watabou.noosa.particles.Emitter.Factory;
 import com.game.pixeldungeonrewards.Assets;
-import com.game.utils.PointF;
-import com.game.utils.Random;
+import com.watabou.utils.PointF;
+import com.watabou.utils.Random;
 
 public class GooSprite extends MobSprite {
 	

@@ -19,11 +19,11 @@ package com.game.pixeldungeonrewards.sprites;
 
 import android.graphics.Bitmap;
 
-import com.game.gltextures.TextureCache;
-import com.game.noosa.Game;
-import com.game.noosa.MovieClip;
-import com.game.noosa.TextureFilm;
-import com.game.noosa.audio.Sample;
+import com.watabou.gltextures.TextureCache;
+import com.watabou.noosa.Game;
+import com.watabou.noosa.MovieClip;
+import com.watabou.noosa.TextureFilm;
+import com.watabou.noosa.audio.Sample;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.DungeonTilemap;
@@ -35,8 +35,8 @@ import com.game.pixeldungeonrewards.items.Item;
 import com.game.pixeldungeonrewards.levels.Level;
 import com.game.pixeldungeonrewards.levels.Terrain;
 import com.game.pixeldungeonrewards.scenes.GameScene;
-import com.game.utils.PointF;
-import com.game.utils.Random;
+import com.watabou.utils.PointF;
+import com.watabou.utils.Random;
 
 public class ItemSprite extends MovieClip {
 

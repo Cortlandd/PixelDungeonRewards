@@ -17,19 +17,19 @@
  */
 package com.game.pixeldungeonrewards.levels;
 
-import com.game.noosa.Game;
-import com.game.noosa.Group;
-import com.game.noosa.Scene;
-import com.game.noosa.particles.PixelParticle;
+import com.watabou.noosa.Game;
+import com.watabou.noosa.Group;
+import com.watabou.noosa.Scene;
+import com.watabou.noosa.particles.PixelParticle;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.DungeonTilemap;
 import com.game.pixeldungeonrewards.actors.mobs.npcs.Blacksmith;
 import com.game.pixeldungeonrewards.levels.Room.Type;
 import com.game.pixeldungeonrewards.levels.painters.Painter;
-import com.game.utils.PointF;
-import com.game.utils.Random;
-import com.game.utils.Rect;
+import com.watabou.utils.PointF;
+import com.watabou.utils.Random;
+import com.watabou.utils.Rect;
 
 public class CavesLevel extends RegularLevel {
 

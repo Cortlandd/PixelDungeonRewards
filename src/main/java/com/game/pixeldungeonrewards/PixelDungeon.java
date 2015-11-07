@@ -26,9 +26,9 @@ import android.util.DisplayMetrics;
 import android.util.Log;
 import android.view.View;
 
-import com.game.noosa.Game;
-import com.game.noosa.audio.Music;
-import com.game.noosa.audio.Sample;
+import com.watabou.noosa.Game;
+import com.watabou.noosa.audio.Music;
+import com.watabou.noosa.audio.Sample;
 import com.game.pixeldungeonrewards.scenes.GameScene;
 import com.game.pixeldungeonrewards.scenes.PixelScene;
 import com.game.pixeldungeonrewards.scenes.TitleScene;
@@ -38,86 +38,86 @@ public class PixelDungeon extends Game {
 	public PixelDungeon() {
 		super( TitleScene.class );
 		
-		com.game.utils.Bundle.addAlias(
+		com.watabou.utils.Bundle.addAlias(
 			com.game.pixeldungeonrewards.items.scrolls.ScrollOfUpgrade.class,
 			"com.watabou.pixeldungeon.items.scrolls.ScrollOfEnhancement" );
-		com.game.utils.Bundle.addAlias(
+		com.watabou.utils.Bundle.addAlias(
 			com.game.pixeldungeonrewards.actors.blobs.WaterOfHealth.class,
 			"com.watabou.pixeldungeon.actors.blobs.Light" );
-		com.game.utils.Bundle.addAlias(
+		com.watabou.utils.Bundle.addAlias(
 			com.game.pixeldungeonrewards.items.rings.RingOfMending.class,
 			"com.watabou.pixeldungeon.items.rings.RingOfRejuvenation" );
-		com.game.utils.Bundle.addAlias(
+		com.watabou.utils.Bundle.addAlias(
 			com.game.pixeldungeonrewards.items.wands.WandOfReach.class,
 			"com.watabou.pixeldungeon.items.wands.WandOfTelekenesis" );
-		com.game.utils.Bundle.addAlias(
+		com.watabou.utils.Bundle.addAlias(
 			com.game.pixeldungeonrewards.actors.blobs.Foliage.class,
 			"com.watabou.pixeldungeon.actors.blobs.Blooming" );
-		com.game.utils.Bundle.addAlias(
+		com.watabou.utils.Bundle.addAlias(
 			com.game.pixeldungeonrewards.actors.buffs.Shadows.class,
 			"com.watabou.pixeldungeon.actors.buffs.Rejuvenation" );
-		com.game.utils.Bundle.addAlias(
+		com.watabou.utils.Bundle.addAlias(
 			com.game.pixeldungeonrewards.items.scrolls.ScrollOfPsionicBlast.class,
 			"com.watabou.pixeldungeon.items.scrolls.ScrollOfNuclearBlast" );
-		com.game.utils.Bundle.addAlias(
+		com.watabou.utils.Bundle.addAlias(
 			com.game.pixeldungeonrewards.actors.hero.Hero.class,
 			"com.watabou.pixeldungeon.actors.Hero" );
-		com.game.utils.Bundle.addAlias(
+		com.watabou.utils.Bundle.addAlias(
 			com.game.pixeldungeonrewards.actors.mobs.npcs.Shopkeeper.class,
 			"com.watabou.pixeldungeon.actors.mobs.Shopkeeper" );
 		// 1.6.1
-		com.game.utils.Bundle.addAlias(
+		com.watabou.utils.Bundle.addAlias(
 			com.game.pixeldungeonrewards.items.quest.DriedRose.class,
 			"com.watabou.pixeldungeon.items.DriedRose" );
-		com.game.utils.Bundle.addAlias(
+		com.watabou.utils.Bundle.addAlias(
 			com.game.pixeldungeonrewards.actors.mobs.npcs.MirrorImage.class,
 			"com.watabou.pixeldungeon.items.scrolls.ScrollOfMirrorImage$MirrorImage" );
 		// 1.6.4
-		com.game.utils.Bundle.addAlias(
+		com.watabou.utils.Bundle.addAlias(
 			com.game.pixeldungeonrewards.items.rings.RingOfElements.class,
 			"com.watabou.pixeldungeon.items.rings.RingOfCleansing" );
-		com.game.utils.Bundle.addAlias(
+		com.watabou.utils.Bundle.addAlias(
 			com.game.pixeldungeonrewards.items.rings.RingOfElements.class,
 			"com.watabou.pixeldungeon.items.rings.RingOfResistance" );
-		com.game.utils.Bundle.addAlias(
+		com.watabou.utils.Bundle.addAlias(
 			com.game.pixeldungeonrewards.items.weapon.missiles.Boomerang.class,
 			"com.watabou.pixeldungeon.items.weapon.missiles.RangersBoomerang" );
-		com.game.utils.Bundle.addAlias(
+		com.watabou.utils.Bundle.addAlias(
 			com.game.pixeldungeonrewards.items.rings.RingOfPower.class,
 			"com.watabou.pixeldungeon.items.rings.RingOfEnergy" );
 		// 1.7.2
-		com.game.utils.Bundle.addAlias(
+		com.watabou.utils.Bundle.addAlias(
 			com.game.pixeldungeonrewards.plants.Dreamweed.class,
 			"com.watabou.pixeldungeon.plants.Blindweed" );
-		com.game.utils.Bundle.addAlias(
+		com.watabou.utils.Bundle.addAlias(
 			com.game.pixeldungeonrewards.plants.Dreamweed.Seed.class,
 			"com.watabou.pixeldungeon.plants.Blindweed$Seed" );
 		// 1.7.4
-		com.game.utils.Bundle.addAlias(
+		com.watabou.utils.Bundle.addAlias(
 			com.game.pixeldungeonrewards.items.weapon.enchantments.Shock.class,
 			"com.watabou.pixeldungeon.items.weapon.enchantments.Piercing" );
-		com.game.utils.Bundle.addAlias(
+		com.watabou.utils.Bundle.addAlias(
 			com.game.pixeldungeonrewards.items.weapon.enchantments.Shock.class,
 			"com.watabou.pixeldungeon.items.weapon.enchantments.Swing" );
-		com.game.utils.Bundle.addAlias(
+		com.watabou.utils.Bundle.addAlias(
 			com.game.pixeldungeonrewards.items.scrolls.ScrollOfEnchantment.class,
 			"com.watabou.pixeldungeon.items.scrolls.ScrollOfWeaponUpgrade" );
 		// 1.7.5
-		com.game.utils.Bundle.addAlias(
+		com.watabou.utils.Bundle.addAlias(
 			com.game.pixeldungeonrewards.items.scrolls.ScrollOfEnchantment.class,
 			"com.watabou.pixeldungeon.items.Stylus" );
 		// 1.8.0
-		com.game.utils.Bundle.addAlias(
+		com.watabou.utils.Bundle.addAlias(
 			com.game.pixeldungeonrewards.actors.mobs.FetidRat.class,
 			"com.watabou.pixeldungeon.actors.mobs.npcs.Ghost$FetidRat" );
-		com.game.utils.Bundle.addAlias(
+		com.watabou.utils.Bundle.addAlias(
 			com.game.pixeldungeonrewards.plants.Rotberry.class,
 			"com.watabou.pixeldungeon.actors.mobs.npcs.Wandmaker$Rotberry" );
-		com.game.utils.Bundle.addAlias(
+		com.watabou.utils.Bundle.addAlias(
 			com.game.pixeldungeonrewards.plants.Rotberry.Seed.class,
 			"com.watabou.pixeldungeon.actors.mobs.npcs.Wandmaker$Rotberry$Seed" );
 		// 1.9.0
-		com.game.utils.Bundle.addAlias(
+		com.watabou.utils.Bundle.addAlias(
 			com.game.pixeldungeonrewards.items.wands.WandOfReach.class,
 			"com.watabou.pixeldungeon.items.wands.WandOfTelekinesis" );
 	}

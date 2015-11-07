@@ -17,7 +17,7 @@
  */
 package com.game.pixeldungeonrewards.windows;
 
-import com.game.noosa.BitmapTextMultiline;
+import com.watabou.noosa.BitmapTextMultiline;
 import com.game.pixeldungeonrewards.scenes.PixelScene;
 import com.game.pixeldungeonrewards.ui.RedButton;
 import com.game.pixeldungeonrewards.ui.Window;

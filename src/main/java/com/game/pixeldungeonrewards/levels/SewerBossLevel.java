@@ -20,7 +20,7 @@ package com.game.pixeldungeonrewards.levels;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.game.noosa.Scene;
+import com.watabou.noosa.Scene;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Bones;
 import com.game.pixeldungeonrewards.Dungeon;
@@ -31,9 +31,9 @@ import com.game.pixeldungeonrewards.items.Heap;
 import com.game.pixeldungeonrewards.items.Item;
 import com.game.pixeldungeonrewards.levels.Room.Type;
 import com.game.pixeldungeonrewards.scenes.GameScene;
-import com.game.utils.Bundle;
-import com.game.utils.Graph;
-import com.game.utils.Random;
+import com.watabou.utils.Bundle;
+import com.watabou.utils.Graph;
+import com.watabou.utils.Random;
 
 public class SewerBossLevel extends RegularLevel {
 

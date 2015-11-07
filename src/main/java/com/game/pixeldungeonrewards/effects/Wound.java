@@ -17,9 +17,9 @@
  */
 package com.game.pixeldungeonrewards.effects;
 
-import com.game.noosa.Game;
-import com.game.noosa.Group;
-import com.game.noosa.Image;
+import com.watabou.noosa.Game;
+import com.watabou.noosa.Group;
+import com.watabou.noosa.Image;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.DungeonTilemap;
 import com.game.pixeldungeonrewards.actors.Char;

@@ -17,7 +17,7 @@
  */
 package com.game.pixeldungeonrewards.items.potions;
 
-import com.game.noosa.audio.Sample;
+import com.watabou.noosa.audio.Sample;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.actors.blobs.Blob;
@@ -31,7 +31,7 @@ import com.game.pixeldungeonrewards.effects.Speck;
 import com.game.pixeldungeonrewards.levels.Level;
 import com.game.pixeldungeonrewards.utils.BArray;
 import com.game.pixeldungeonrewards.utils.GLog;
-import com.game.utils.PathFinder;
+import com.watabou.utils.PathFinder;
 
 public class PotionOfPurity extends Potion {
 

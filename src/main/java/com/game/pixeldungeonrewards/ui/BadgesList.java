@@ -19,11 +19,11 @@ package com.game.pixeldungeonrewards.ui;
 
 import java.util.ArrayList;
 
-import com.game.noosa.BitmapText;
-import com.game.noosa.Game;
-import com.game.noosa.Image;
-import com.game.noosa.audio.Sample;
-import com.game.noosa.ui.Component;
+import com.watabou.noosa.BitmapText;
+import com.watabou.noosa.Game;
+import com.watabou.noosa.Image;
+import com.watabou.noosa.audio.Sample;
+import com.watabou.noosa.ui.Component;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Badges;
 import com.game.pixeldungeonrewards.effects.BadgeBanner;

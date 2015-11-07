@@ -26,7 +26,7 @@ import java.util.HashSet;
 import java.util.Iterator;
 import java.util.List;
 
-import com.game.noosa.Game;
+import com.watabou.noosa.Game;
 import com.game.pixeldungeonrewards.actors.mobs.Acidic;
 import com.game.pixeldungeonrewards.actors.mobs.Albino;
 import com.game.pixeldungeonrewards.actors.mobs.Bandit;
@@ -45,8 +45,8 @@ import com.game.pixeldungeonrewards.items.scrolls.Scroll;
 import com.game.pixeldungeonrewards.items.wands.Wand;
 import com.game.pixeldungeonrewards.scenes.PixelScene;
 import com.game.pixeldungeonrewards.utils.GLog;
-import com.game.utils.Bundle;
-import com.game.utils.Callback;
+import com.watabou.utils.Bundle;
+import com.watabou.utils.Callback;
 
 public class Badges {
 	

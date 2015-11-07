@@ -19,7 +19,7 @@ package com.game.pixeldungeonrewards.actors.mobs.npcs;
 
 import java.util.Collection;
 
-import com.game.noosa.audio.Sample;
+import com.watabou.noosa.audio.Sample;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Badges;
 import com.game.pixeldungeonrewards.Dungeon;
@@ -39,8 +39,8 @@ import com.game.pixeldungeonrewards.sprites.BlacksmithSprite;
 import com.game.pixeldungeonrewards.utils.GLog;
 import com.game.pixeldungeonrewards.windows.WndBlacksmith;
 import com.game.pixeldungeonrewards.windows.WndQuest;
-import com.game.utils.Bundle;
-import com.game.utils.Random;
+import com.watabou.utils.Bundle;
+import com.watabou.utils.Random;
 
 public class Blacksmith extends NPC {
 

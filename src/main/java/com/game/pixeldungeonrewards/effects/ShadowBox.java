@@ -17,8 +17,8 @@
  */
 package com.game.pixeldungeonrewards.effects;
 
-import com.game.gltextures.SmartTexture;
-import com.game.noosa.NinePatch;
+import com.watabou.gltextures.SmartTexture;
+import com.watabou.noosa.NinePatch;
 import com.game.pixeldungeonrewards.Assets;
 
 public class ShadowBox extends NinePatch {

@@ -21,13 +21,13 @@ import javax.microedition.khronos.opengles.GL10;
 
 import android.opengl.GLES20;
 
-import com.game.noosa.BitmapText;
-import com.game.noosa.Camera;
-import com.game.noosa.Game;
-import com.game.noosa.Image;
-import com.game.noosa.audio.Music;
-import com.game.noosa.audio.Sample;
-import com.game.noosa.ui.Button;
+import com.watabou.noosa.BitmapText;
+import com.watabou.noosa.Camera;
+import com.watabou.noosa.Game;
+import com.watabou.noosa.Image;
+import com.watabou.noosa.audio.Music;
+import com.watabou.noosa.audio.Sample;
+import com.watabou.noosa.ui.Button;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.PixelDungeon;
 import com.game.pixeldungeonrewards.effects.BannerSprites;

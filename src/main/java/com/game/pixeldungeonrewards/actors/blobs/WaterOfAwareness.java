@@ -17,7 +17,7 @@
  */
 package com.game.pixeldungeonrewards.actors.blobs;
 
-import com.game.noosa.audio.Sample;
+import com.watabou.noosa.audio.Sample;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Badges;
 import com.game.pixeldungeonrewards.Dungeon;

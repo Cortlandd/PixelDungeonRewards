@@ -18,18 +18,18 @@
 package com.game.pixeldungeonrewards.ui;
 
 
-import com.game.input.Keys;
-import com.game.input.Keys.Key;
-import com.game.input.Touchscreen.Touch;
-import com.game.noosa.Camera;
-import com.game.noosa.Game;
-import com.game.noosa.Group;
-import com.game.noosa.NinePatch;
-import com.game.noosa.TouchArea;
+import com.watabou.input.Keys;
+import com.watabou.input.Keys.Key;
+import com.watabou.input.Touchscreen.Touch;
+import com.watabou.noosa.Camera;
+import com.watabou.noosa.Game;
+import com.watabou.noosa.Group;
+import com.watabou.noosa.NinePatch;
+import com.watabou.noosa.TouchArea;
 import com.game.pixeldungeonrewards.Chrome;
 import com.game.pixeldungeonrewards.effects.ShadowBox;
 import com.game.pixeldungeonrewards.scenes.PixelScene;
-import com.game.utils.Signal;
+import com.watabou.utils.Signal;
 
 public class Window extends Group implements Signal.Listener<Key> {
 

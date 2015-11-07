@@ -19,9 +19,9 @@ package com.game.pixeldungeonrewards.effects;
 
 import java.util.HashMap;
 
-import com.game.noosa.Game;
-import com.game.noosa.Image;
-import com.game.noosa.TextureFilm;
+import com.watabou.noosa.Game;
+import com.watabou.noosa.Image;
+import com.watabou.noosa.TextureFilm;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.actors.Char;
 import com.game.pixeldungeonrewards.scenes.GameScene;

@@ -17,9 +17,9 @@
  */
 package com.game.pixeldungeonrewards.sprites;
 
-import com.game.noosa.TextureFilm;
+import com.watabou.noosa.TextureFilm;
 import com.game.pixeldungeonrewards.Assets;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class MonkSprite extends MobSprite {
 	

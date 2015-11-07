@@ -38,8 +38,8 @@ import com.game.pixeldungeonrewards.scenes.GameScene;
 import com.game.pixeldungeonrewards.sprites.CharSprite;
 import com.game.pixeldungeonrewards.sprites.GooSprite;
 import com.game.pixeldungeonrewards.utils.GLog;
-import com.game.utils.Callback;
-import com.game.utils.Random;
+import com.watabou.utils.Callback;
+import com.watabou.utils.Random;
 
 public class Goo extends Mob {
 

@@ -25,7 +25,7 @@ import com.game.pixeldungeonrewards.effects.Pushing;
 import com.game.pixeldungeonrewards.items.armor.Armor;
 import com.game.pixeldungeonrewards.items.armor.Armor.Glyph;
 import com.game.pixeldungeonrewards.levels.Level;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class Bounce extends Glyph {
 

@@ -17,12 +17,12 @@
  */
 package com.game.pixeldungeonrewards.sprites;
 
-import com.game.noosa.tweeners.PosTweener;
-import com.game.noosa.tweeners.Tweener;
+import com.watabou.noosa.tweeners.PosTweener;
+import com.watabou.noosa.tweeners.Tweener;
 import com.game.pixeldungeonrewards.DungeonTilemap;
 import com.game.pixeldungeonrewards.items.Item;
-import com.game.utils.Callback;
-import com.game.utils.PointF;
+import com.watabou.utils.Callback;
+import com.watabou.utils.PointF;
 
 public class MissileSprite extends ItemSprite implements Tweener.Listener {
 

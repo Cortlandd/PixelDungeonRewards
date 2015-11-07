@@ -17,7 +17,7 @@
  */
 package com.game.pixeldungeonrewards.sprites;
 
-import com.game.noosa.particles.Emitter;
+import com.watabou.noosa.particles.Emitter;
 import com.game.pixeldungeonrewards.actors.Char;
 import com.game.pixeldungeonrewards.effects.particles.ShadowParticle;
 

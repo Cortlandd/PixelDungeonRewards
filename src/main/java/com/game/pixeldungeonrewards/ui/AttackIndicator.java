@@ -25,7 +25,7 @@ import com.game.pixeldungeonrewards.actors.mobs.Mob;
 import com.game.pixeldungeonrewards.levels.Level;
 import com.game.pixeldungeonrewards.scenes.PixelScene;
 import com.game.pixeldungeonrewards.sprites.CharSprite;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class AttackIndicator extends Tag {
 	

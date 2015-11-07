@@ -22,7 +22,7 @@ import com.game.pixeldungeonrewards.actors.blobs.SacrificialFire;
 import com.game.pixeldungeonrewards.levels.Level;
 import com.game.pixeldungeonrewards.levels.Room;
 import com.game.pixeldungeonrewards.levels.Terrain;
-import com.game.utils.Point;
+import com.watabou.utils.Point;
 
 public class AltarPainter extends Painter {
 

@@ -20,7 +20,7 @@ package com.game.pixeldungeonrewards.items.wands;
 import java.util.ArrayList;
 import java.util.HashSet;
 
-import com.game.noosa.Camera;
+import com.watabou.noosa.Camera;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.ResultDescriptions;
 import com.game.pixeldungeonrewards.actors.Actor;
@@ -32,8 +32,8 @@ import com.game.pixeldungeonrewards.levels.Level;
 import com.game.pixeldungeonrewards.levels.traps.LightningTrap;
 import com.game.pixeldungeonrewards.utils.GLog;
 import com.game.pixeldungeonrewards.utils.Utils;
-import com.game.utils.Callback;
-import com.game.utils.Random;
+import com.watabou.utils.Callback;
+import com.watabou.utils.Random;
 
 public class WandOfLightning extends Wand {
 

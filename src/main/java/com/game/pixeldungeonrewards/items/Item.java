@@ -21,7 +21,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 
-import com.game.noosa.audio.Sample;
+import com.watabou.noosa.audio.Sample;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Badges;
 import com.game.pixeldungeonrewards.Dungeon;
@@ -46,10 +46,10 @@ import com.game.pixeldungeonrewards.sprites.MissileSprite;
 import com.game.pixeldungeonrewards.ui.QuickSlot;
 import com.game.pixeldungeonrewards.utils.GLog;
 import com.game.pixeldungeonrewards.utils.Utils;
-import com.game.utils.Bundlable;
-import com.game.utils.Bundle;
-import com.game.utils.Callback;
-import com.game.utils.PointF;
+import com.watabou.utils.Bundlable;
+import com.watabou.utils.Bundle;
+import com.watabou.utils.Callback;
+import com.watabou.utils.PointF;
 
 public class Item implements Bundlable {
 

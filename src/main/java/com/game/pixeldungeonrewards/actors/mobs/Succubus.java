@@ -19,7 +19,7 @@ package com.game.pixeldungeonrewards.actors.mobs;
 
 import java.util.HashSet;
 
-import com.game.noosa.audio.Sample;
+import com.watabou.noosa.audio.Sample;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.actors.Actor;
 import com.game.pixeldungeonrewards.actors.Char;
@@ -34,7 +34,7 @@ import com.game.pixeldungeonrewards.items.weapon.enchantments.Leech;
 import com.game.pixeldungeonrewards.levels.Level;
 import com.game.pixeldungeonrewards.mechanics.Ballistica;
 import com.game.pixeldungeonrewards.sprites.SuccubusSprite;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class Succubus extends Mob {
 	

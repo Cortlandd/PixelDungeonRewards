@@ -20,7 +20,7 @@ package com.game.pixeldungeonrewards.items;
 import java.io.IOException;
 import java.util.ArrayList;
 
-import com.game.noosa.Game;
+import com.watabou.noosa.Game;
 import com.game.pixeldungeonrewards.Badges;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.Statistics;

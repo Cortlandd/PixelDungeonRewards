@@ -17,9 +17,9 @@
  */
 package com.game.pixeldungeonrewards.windows;
 
-import com.game.noosa.BitmapText;
-import com.game.noosa.BitmapTextMultiline;
-import com.game.noosa.Group;
+import com.watabou.noosa.BitmapText;
+import com.watabou.noosa.BitmapTextMultiline;
+import com.watabou.noosa.Group;
 import com.game.pixeldungeonrewards.Badges;
 import com.game.pixeldungeonrewards.actors.hero.HeroClass;
 import com.game.pixeldungeonrewards.actors.hero.HeroSubClass;

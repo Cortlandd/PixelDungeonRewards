@@ -26,8 +26,8 @@ import com.game.pixeldungeonrewards.actors.hero.Hero;
 import com.game.pixeldungeonrewards.items.Item;
 import com.game.pixeldungeonrewards.scenes.GameScene;
 import com.game.pixeldungeonrewards.windows.WndBag;
-import com.game.utils.Bundlable;
-import com.game.utils.Bundle;
+import com.watabou.utils.Bundlable;
+import com.watabou.utils.Bundle;
 
 public class Bag extends Item implements Iterable<Item> {
 

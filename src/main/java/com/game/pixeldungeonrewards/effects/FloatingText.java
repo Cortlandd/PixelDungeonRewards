@@ -19,13 +19,13 @@ package com.game.pixeldungeonrewards.effects;
 
 import java.util.ArrayList;
 
-import com.game.noosa.BitmapText;
-import com.game.noosa.Camera;
-import com.game.noosa.Game;
+import com.watabou.noosa.BitmapText;
+import com.watabou.noosa.Camera;
+import com.watabou.noosa.Game;
 import com.game.pixeldungeonrewards.DungeonTilemap;
 import com.game.pixeldungeonrewards.scenes.GameScene;
 import com.game.pixeldungeonrewards.scenes.PixelScene;
-import com.game.utils.SparseArray;
+import com.watabou.utils.SparseArray;
 
 public class FloatingText extends BitmapText {
 

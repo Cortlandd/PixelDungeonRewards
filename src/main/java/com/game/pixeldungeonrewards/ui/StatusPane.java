@@ -17,17 +17,17 @@
  */
 package com.game.pixeldungeonrewards.ui;
 
-import com.game.input.Touchscreen.Touch;
-import com.game.noosa.BitmapText;
-import com.game.noosa.Camera;
-import com.game.noosa.Image;
-import com.game.noosa.NinePatch;
-import com.game.noosa.TouchArea;
-import com.game.noosa.audio.Sample;
-import com.game.noosa.particles.BitmaskEmitter;
-import com.game.noosa.particles.Emitter;
-import com.game.noosa.ui.Button;
-import com.game.noosa.ui.Component;
+import com.watabou.input.Touchscreen.Touch;
+import com.watabou.noosa.BitmapText;
+import com.watabou.noosa.Camera;
+import com.watabou.noosa.Image;
+import com.watabou.noosa.NinePatch;
+import com.watabou.noosa.TouchArea;
+import com.watabou.noosa.audio.Sample;
+import com.watabou.noosa.particles.BitmaskEmitter;
+import com.watabou.noosa.particles.Emitter;
+import com.watabou.noosa.ui.Button;
+import com.watabou.noosa.ui.Component;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.effects.Speck;

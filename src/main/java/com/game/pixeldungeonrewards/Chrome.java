@@ -17,7 +17,7 @@
  */
 package com.game.pixeldungeonrewards;
 
-import com.game.noosa.NinePatch;
+import com.watabou.noosa.NinePatch;
 
 public class Chrome {
 

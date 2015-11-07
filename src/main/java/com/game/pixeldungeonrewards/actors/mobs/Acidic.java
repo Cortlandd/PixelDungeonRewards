@@ -20,7 +20,7 @@ package com.game.pixeldungeonrewards.actors.mobs;
 import com.game.pixeldungeonrewards.Badges;
 import com.game.pixeldungeonrewards.actors.Char;
 import com.game.pixeldungeonrewards.sprites.AcidicSprite;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class Acidic extends Scorpio {
 

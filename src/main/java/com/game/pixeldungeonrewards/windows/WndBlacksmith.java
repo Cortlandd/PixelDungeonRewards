@@ -17,10 +17,10 @@
  */
 package com.game.pixeldungeonrewards.windows;
 
-import com.game.noosa.BitmapTextMultiline;
-import com.game.noosa.NinePatch;
-import com.game.noosa.audio.Sample;
-import com.game.noosa.ui.Component;
+import com.watabou.noosa.BitmapTextMultiline;
+import com.watabou.noosa.NinePatch;
+import com.watabou.noosa.audio.Sample;
+import com.watabou.noosa.ui.Component;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Chrome;
 import com.game.pixeldungeonrewards.actors.hero.Hero;

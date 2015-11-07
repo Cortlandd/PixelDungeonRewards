@@ -37,8 +37,8 @@ import com.game.pixeldungeonrewards.scenes.GameScene;
 import com.game.pixeldungeonrewards.ui.BuffIndicator;
 import com.game.pixeldungeonrewards.utils.GLog;
 import com.game.pixeldungeonrewards.utils.Utils;
-import com.game.utils.Bundle;
-import com.game.utils.Random;
+import com.watabou.utils.Bundle;
+import com.watabou.utils.Random;
 
 public class Burning extends Buff implements Hero.Doom {
 

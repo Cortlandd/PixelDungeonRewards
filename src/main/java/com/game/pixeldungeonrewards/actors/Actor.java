@@ -28,8 +28,8 @@ import com.game.pixeldungeonrewards.actors.blobs.Blob;
 import com.game.pixeldungeonrewards.actors.buffs.Buff;
 import com.game.pixeldungeonrewards.actors.mobs.Mob;
 import com.game.pixeldungeonrewards.levels.Level;
-import com.game.utils.Bundlable;
-import com.game.utils.Bundle;
+import com.watabou.utils.Bundlable;
+import com.watabou.utils.Bundle;
 
 public abstract class Actor implements Bundlable {
 	

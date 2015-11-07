@@ -21,20 +21,20 @@ import javax.microedition.khronos.opengles.GL10;
 
 import android.opengl.GLES20;
 
-import com.game.input.Touchscreen;
-import com.game.noosa.BitmapText;
-import com.game.noosa.BitmapText.Font;
-import com.game.noosa.BitmapTextMultiline;
-import com.game.noosa.Camera;
-import com.game.noosa.ColorBlock;
-import com.game.noosa.Game;
-import com.game.noosa.Scene;
-import com.game.noosa.Visual;
+import com.watabou.input.Touchscreen;
+import com.watabou.noosa.BitmapText;
+import com.watabou.noosa.BitmapText.Font;
+import com.watabou.noosa.BitmapTextMultiline;
+import com.watabou.noosa.Camera;
+import com.watabou.noosa.ColorBlock;
+import com.watabou.noosa.Game;
+import com.watabou.noosa.Scene;
+import com.watabou.noosa.Visual;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Badges;
 import com.game.pixeldungeonrewards.PixelDungeon;
 import com.game.pixeldungeonrewards.effects.BadgeBanner;
-import com.game.utils.BitmapCache;
+import com.watabou.utils.BitmapCache;
 
 public class PixelScene extends Scene {
 	

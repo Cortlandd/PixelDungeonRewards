@@ -17,12 +17,12 @@
  */
 package com.game.pixeldungeonrewards.effects;
 
-import com.game.noosa.Game;
-import com.game.noosa.Image;
+import com.watabou.noosa.Game;
+import com.watabou.noosa.Image;
 import com.game.pixeldungeonrewards.scenes.GameScene;
 import com.game.pixeldungeonrewards.sprites.CharSprite;
 import com.game.pixeldungeonrewards.ui.Icons;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class EmoIcon extends Image {
 

@@ -19,7 +19,7 @@ package com.game.pixeldungeonrewards.items.quest;
 
 import java.util.ArrayList;
 
-import com.game.noosa.audio.Sample;
+import com.watabou.noosa.audio.Sample;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.actors.Char;
@@ -36,8 +36,8 @@ import com.game.pixeldungeonrewards.sprites.ItemSpriteSheet;
 import com.game.pixeldungeonrewards.sprites.ItemSprite.Glowing;
 import com.game.pixeldungeonrewards.ui.BuffIndicator;
 import com.game.pixeldungeonrewards.utils.GLog;
-import com.game.utils.Bundle;
-import com.game.utils.Callback;
+import com.watabou.utils.Bundle;
+import com.watabou.utils.Callback;
 
 public class Pickaxe extends Weapon {
 	

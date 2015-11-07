@@ -25,7 +25,7 @@ import com.game.pixeldungeonrewards.items.potions.PotionOfFrost;
 import com.game.pixeldungeonrewards.levels.Level;
 import com.game.pixeldungeonrewards.sprites.ItemSpriteSheet;
 import com.game.pixeldungeonrewards.utils.BArray;
-import com.game.utils.PathFinder;
+import com.watabou.utils.PathFinder;
 
 public class Icecap extends Plant {
 

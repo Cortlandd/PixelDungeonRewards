@@ -31,7 +31,7 @@ import com.game.pixeldungeonrewards.items.weapon.enchantments.Leech;
 import com.game.pixeldungeonrewards.levels.Level;
 import com.game.pixeldungeonrewards.mechanics.Ballistica;
 import com.game.pixeldungeonrewards.sprites.ScorpioSprite;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class Scorpio extends Mob {
 	

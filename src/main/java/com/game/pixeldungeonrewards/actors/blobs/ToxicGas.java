@@ -27,7 +27,7 @@ import com.game.pixeldungeonrewards.effects.BlobEmitter;
 import com.game.pixeldungeonrewards.effects.Speck;
 import com.game.pixeldungeonrewards.utils.GLog;
 import com.game.pixeldungeonrewards.utils.Utils;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class ToxicGas extends Blob implements Hero.Doom {
 	

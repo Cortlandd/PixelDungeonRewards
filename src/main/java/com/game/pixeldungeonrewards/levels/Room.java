@@ -26,12 +26,12 @@ import java.util.HashSet;
 
 import com.game.pixeldungeonrewards.PixelDungeon;
 import com.game.pixeldungeonrewards.levels.painters.*;
-import com.game.utils.Bundlable;
-import com.game.utils.Bundle;
-import com.game.utils.Graph;
-import com.game.utils.Point;
-import com.game.utils.Random;
-import com.game.utils.Rect;
+import com.watabou.utils.Bundlable;
+import com.watabou.utils.Bundle;
+import com.watabou.utils.Graph;
+import com.watabou.utils.Point;
+import com.watabou.utils.Random;
+import com.watabou.utils.Rect;
 
 public class Room extends Rect implements Graph.Node, Bundlable {
 	

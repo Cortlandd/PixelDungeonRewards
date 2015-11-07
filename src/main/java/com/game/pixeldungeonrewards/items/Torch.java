@@ -19,7 +19,7 @@ package com.game.pixeldungeonrewards.items;
 
 import java.util.ArrayList;
 
-import com.game.noosa.particles.Emitter;
+import com.watabou.noosa.particles.Emitter;
 import com.game.pixeldungeonrewards.actors.buffs.Buff;
 import com.game.pixeldungeonrewards.actors.buffs.Light;
 import com.game.pixeldungeonrewards.actors.hero.Hero;

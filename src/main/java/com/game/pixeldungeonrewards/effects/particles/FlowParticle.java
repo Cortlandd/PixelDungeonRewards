@@ -17,15 +17,15 @@
  */
 package com.game.pixeldungeonrewards.effects.particles;
 
-import com.game.noosa.Game;
-import com.game.noosa.Group;
-import com.game.noosa.particles.Emitter;
-import com.game.noosa.particles.PixelParticle;
-import com.game.noosa.particles.Emitter.Factory;
+import com.watabou.noosa.Game;
+import com.watabou.noosa.Group;
+import com.watabou.noosa.particles.Emitter;
+import com.watabou.noosa.particles.PixelParticle;
+import com.watabou.noosa.particles.Emitter.Factory;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.DungeonTilemap;
-import com.game.utils.PointF;
-import com.game.utils.Random;
+import com.watabou.utils.PointF;
+import com.watabou.utils.Random;
 
 public class FlowParticle extends PixelParticle {
 

@@ -17,9 +17,9 @@
  */
 package com.game.pixeldungeonrewards.effects.particles;
 
-import com.game.noosa.particles.Emitter;
-import com.game.noosa.particles.PixelParticle;
-import com.game.noosa.particles.Emitter.Factory;
+import com.watabou.noosa.particles.Emitter;
+import com.watabou.noosa.particles.PixelParticle;
+import com.watabou.noosa.particles.Emitter.Factory;
 
 public class FlameParticle extends PixelParticle.Shrinking {
 	

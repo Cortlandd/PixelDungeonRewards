@@ -21,8 +21,8 @@ import java.util.Arrays;
 
 import com.game.pixeldungeonrewards.levels.Level;
 import com.game.pixeldungeonrewards.levels.Room;
-import com.game.utils.Point;
-import com.game.utils.Rect;
+import com.watabou.utils.Point;
+import com.watabou.utils.Rect;
 
 public class Painter {
 

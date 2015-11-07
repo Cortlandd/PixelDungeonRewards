@@ -17,8 +17,8 @@
  */
 package com.game.pixeldungeonrewards.windows;
 
-import com.game.noosa.Camera;
-import com.game.noosa.audio.Sample;
+import com.watabou.noosa.Camera;
+import com.watabou.noosa.audio.Sample;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.PixelDungeon;
 import com.game.pixeldungeonrewards.scenes.PixelScene;

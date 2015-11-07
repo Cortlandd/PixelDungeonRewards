@@ -33,10 +33,10 @@ import com.game.pixeldungeonrewards.items.Item;
 import com.game.pixeldungeonrewards.items.scrolls.ScrollOfUpgrade;
 import com.game.pixeldungeonrewards.levels.Room.Type;
 import com.game.pixeldungeonrewards.levels.painters.*;
-import com.game.utils.Bundle;
-import com.game.utils.Graph;
-import com.game.utils.Random;
-import com.game.utils.Rect;
+import com.watabou.utils.Bundle;
+import com.watabou.utils.Graph;
+import com.watabou.utils.Random;
+import com.watabou.utils.Rect;
 
 public abstract class RegularLevel extends Level {
 

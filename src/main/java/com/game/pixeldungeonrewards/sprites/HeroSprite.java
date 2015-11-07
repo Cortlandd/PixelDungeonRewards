@@ -19,16 +19,16 @@ package com.game.pixeldungeonrewards.sprites;
 
 import android.graphics.RectF;
 
-import com.game.gltextures.SmartTexture;
-import com.game.gltextures.TextureCache;
-import com.game.noosa.Camera;
-import com.game.noosa.Image;
-import com.game.noosa.TextureFilm;
+import com.watabou.gltextures.SmartTexture;
+import com.watabou.gltextures.TextureCache;
+import com.watabou.noosa.Camera;
+import com.watabou.noosa.Image;
+import com.watabou.noosa.TextureFilm;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.actors.hero.Hero;
 import com.game.pixeldungeonrewards.actors.hero.HeroClass;
-import com.game.utils.Callback;
+import com.watabou.utils.Callback;
 
 public class HeroSprite extends CharSprite {
 	

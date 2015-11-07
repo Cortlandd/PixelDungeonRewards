@@ -31,8 +31,8 @@ import com.game.pixeldungeonrewards.items.weapon.enchantments.Death;
 import com.game.pixeldungeonrewards.items.weapon.enchantments.Leech;
 import com.game.pixeldungeonrewards.items.weapon.melee.MeleeWeapon;
 import com.game.pixeldungeonrewards.sprites.StatueSprite;
-import com.game.utils.Bundle;
-import com.game.utils.Random;
+import com.watabou.utils.Bundle;
+import com.watabou.utils.Random;
 
 public class Statue extends Mob {
 	

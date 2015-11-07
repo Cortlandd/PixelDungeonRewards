@@ -34,7 +34,7 @@ import com.game.pixeldungeonrewards.items.weapon.melee.ShortSword;
 import com.game.pixeldungeonrewards.items.weapon.missiles.Dart;
 import com.game.pixeldungeonrewards.items.weapon.missiles.Boomerang;
 import com.game.pixeldungeonrewards.ui.QuickSlot;
-import com.game.utils.Bundle;
+import com.watabou.utils.Bundle;
 
 public enum HeroClass {
 

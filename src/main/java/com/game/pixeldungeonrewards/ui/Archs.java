@@ -17,9 +17,9 @@
  */
 package com.game.pixeldungeonrewards.ui;
 
-import com.game.noosa.Game;
-import com.game.noosa.SkinnedBlock;
-import com.game.noosa.ui.Component;
+import com.watabou.noosa.Game;
+import com.watabou.noosa.SkinnedBlock;
+import com.watabou.noosa.ui.Component;
 import com.game.pixeldungeonrewards.Assets;
 
 public class Archs extends Component {

@@ -26,7 +26,7 @@ import com.game.pixeldungeonrewards.actors.buffs.Terror;
 import com.game.pixeldungeonrewards.actors.mobs.npcs.Imp;
 import com.game.pixeldungeonrewards.items.scrolls.ScrollOfPsionicBlast;
 import com.game.pixeldungeonrewards.sprites.GolemSprite;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class Golem extends Mob {
 	

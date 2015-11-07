@@ -19,11 +19,11 @@ package com.game.pixeldungeonrewards.scenes;
 
 import java.io.FileNotFoundException;
 
-import com.game.noosa.BitmapText;
-import com.game.noosa.Camera;
-import com.game.noosa.Game;
-import com.game.noosa.audio.Music;
-import com.game.noosa.audio.Sample;
+import com.watabou.noosa.BitmapText;
+import com.watabou.noosa.Camera;
+import com.watabou.noosa.Game;
+import com.watabou.noosa.audio.Music;
+import com.watabou.noosa.audio.Sample;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.Statistics;

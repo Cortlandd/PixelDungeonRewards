@@ -21,10 +21,10 @@ import javax.microedition.khronos.opengles.GL10;
 
 import android.opengl.GLES20;
 
-import com.game.noosa.Group;
-import com.game.noosa.particles.PixelParticle;
-import com.game.utils.PointF;
-import com.game.utils.Random;
+import com.watabou.noosa.Group;
+import com.watabou.noosa.particles.PixelParticle;
+import com.watabou.utils.PointF;
+import com.watabou.utils.Random;
 
 public class Degradation extends Group {
 

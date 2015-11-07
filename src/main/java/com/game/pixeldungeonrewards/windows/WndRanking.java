@@ -19,13 +19,13 @@ package com.game.pixeldungeonrewards.windows;
 
 import java.util.Locale;
 
-import com.game.noosa.BitmapText;
-import com.game.noosa.ColorBlock;
-import com.game.noosa.Game;
-import com.game.noosa.Group;
-import com.game.noosa.Image;
-import com.game.noosa.audio.Sample;
-import com.game.noosa.ui.Button;
+import com.watabou.noosa.BitmapText;
+import com.watabou.noosa.ColorBlock;
+import com.watabou.noosa.Game;
+import com.watabou.noosa.Group;
+import com.watabou.noosa.Image;
+import com.watabou.noosa.audio.Sample;
+import com.watabou.noosa.ui.Button;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Badges;
 import com.game.pixeldungeonrewards.Dungeon;

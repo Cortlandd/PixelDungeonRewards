@@ -32,8 +32,8 @@ import com.game.pixeldungeonrewards.sprites.CharSprite;
 import com.game.pixeldungeonrewards.sprites.WarlockSprite;
 import com.game.pixeldungeonrewards.utils.GLog;
 import com.game.pixeldungeonrewards.utils.Utils;
-import com.game.utils.Callback;
-import com.game.utils.Random;
+import com.watabou.utils.Callback;
+import com.watabou.utils.Random;
 
 public class Warlock extends Mob implements Callback {
 	

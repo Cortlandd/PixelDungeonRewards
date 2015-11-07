@@ -19,11 +19,11 @@ package com.game.pixeldungeonrewards.levels;
 
 import java.util.Arrays;
 
-import com.game.noosa.Scene;
+import com.watabou.noosa.Scene;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.items.Amulet;
 import com.game.pixeldungeonrewards.levels.painters.Painter;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class LastLevel extends Level {
 

@@ -27,7 +27,7 @@ import com.game.pixeldungeonrewards.actors.mobs.Mob;
 import com.game.pixeldungeonrewards.items.wands.WandOfBlink;
 import com.game.pixeldungeonrewards.levels.Level;
 import com.game.pixeldungeonrewards.scenes.GameScene;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class SummoningTrap {
 

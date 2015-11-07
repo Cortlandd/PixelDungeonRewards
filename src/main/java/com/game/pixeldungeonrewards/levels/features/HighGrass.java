@@ -32,7 +32,7 @@ import com.game.pixeldungeonrewards.items.rings.RingOfHerbalism.Herbalism;
 import com.game.pixeldungeonrewards.levels.Level;
 import com.game.pixeldungeonrewards.levels.Terrain;
 import com.game.pixeldungeonrewards.scenes.GameScene;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class HighGrass {
 

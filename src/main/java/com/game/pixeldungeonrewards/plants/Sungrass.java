@@ -26,7 +26,7 @@ import com.game.pixeldungeonrewards.effects.particles.ShaftParticle;
 import com.game.pixeldungeonrewards.items.potions.PotionOfHealing;
 import com.game.pixeldungeonrewards.sprites.ItemSpriteSheet;
 import com.game.pixeldungeonrewards.ui.BuffIndicator;
-import com.game.utils.Bundle;
+import com.watabou.utils.Bundle;
 
 public class Sungrass extends Plant {
 

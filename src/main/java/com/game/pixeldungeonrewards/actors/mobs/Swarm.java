@@ -32,8 +32,8 @@ import com.game.pixeldungeonrewards.levels.Terrain;
 import com.game.pixeldungeonrewards.levels.features.Door;
 import com.game.pixeldungeonrewards.scenes.GameScene;
 import com.game.pixeldungeonrewards.sprites.SwarmSprite;
-import com.game.utils.Bundle;
-import com.game.utils.Random;
+import com.watabou.utils.Bundle;
+import com.watabou.utils.Random;
 
 public class Swarm extends Mob {
 

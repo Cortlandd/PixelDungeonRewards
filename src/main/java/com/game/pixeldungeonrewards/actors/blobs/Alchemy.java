@@ -23,7 +23,7 @@ import com.game.pixeldungeonrewards.effects.BlobEmitter;
 import com.game.pixeldungeonrewards.effects.Speck;
 import com.game.pixeldungeonrewards.items.Heap;
 import com.game.pixeldungeonrewards.items.Item;
-import com.game.utils.Bundle;
+import com.watabou.utils.Bundle;
 
 public class Alchemy extends Blob {
 

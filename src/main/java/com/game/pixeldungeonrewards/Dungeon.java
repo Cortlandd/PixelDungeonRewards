@@ -25,7 +25,7 @@ import java.util.Arrays;
 import java.util.Date;
 import java.util.HashSet;
 
-import com.game.noosa.Game;
+import com.watabou.noosa.Game;
 import com.game.pixeldungeonrewards.actors.Actor;
 import com.game.pixeldungeonrewards.actors.Char;
 import com.game.pixeldungeonrewards.actors.buffs.Amok;
@@ -64,11 +64,11 @@ import com.game.pixeldungeonrewards.ui.QuickSlot;
 import com.game.pixeldungeonrewards.utils.BArray;
 import com.game.pixeldungeonrewards.utils.Utils;
 import com.game.pixeldungeonrewards.windows.WndResurrect;
-import com.game.utils.Bundlable;
-import com.game.utils.Bundle;
-import com.game.utils.PathFinder;
-import com.game.utils.Random;
-import com.game.utils.SparseArray;
+import com.watabou.utils.Bundlable;
+import com.watabou.utils.Bundle;
+import com.watabou.utils.PathFinder;
+import com.watabou.utils.Random;
+import com.watabou.utils.SparseArray;
 
 public class Dungeon {
 	

@@ -19,8 +19,8 @@ package com.game.pixeldungeonrewards.actors.mobs.npcs;
 
 import java.util.HashSet;
 
-import com.game.noosa.audio.Sample;
-import com.game.noosa.tweeners.AlphaTweener;
+import com.watabou.noosa.audio.Sample;
+import com.watabou.noosa.tweeners.AlphaTweener;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Challenges;
 import com.game.pixeldungeonrewards.Dungeon;
@@ -50,8 +50,8 @@ import com.game.pixeldungeonrewards.sprites.GhostSprite;
 import com.game.pixeldungeonrewards.utils.Utils;
 import com.game.pixeldungeonrewards.windows.WndQuest;
 import com.game.pixeldungeonrewards.windows.WndSadGhost;
-import com.game.utils.Bundle;
-import com.game.utils.Random;
+import com.watabou.utils.Bundle;
+import com.watabou.utils.Random;
 
 public class Ghost extends NPC {
 

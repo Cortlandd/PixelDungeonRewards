@@ -19,8 +19,8 @@ package com.game.pixeldungeonrewards.items;
 
 import java.util.ArrayList;
 
-import com.game.noosa.audio.Sample;
-import com.game.noosa.tweeners.AlphaTweener;
+import com.watabou.noosa.audio.Sample;
+import com.watabou.noosa.tweeners.AlphaTweener;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.actors.Actor;
@@ -31,7 +31,7 @@ import com.game.pixeldungeonrewards.effects.Splash;
 import com.game.pixeldungeonrewards.levels.Level;
 import com.game.pixeldungeonrewards.scenes.GameScene;
 import com.game.pixeldungeonrewards.sprites.ItemSpriteSheet;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class Honeypot extends Item {
 	

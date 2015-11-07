@@ -17,12 +17,12 @@
  */
 package com.game.pixeldungeonrewards.scenes;
 
-import com.game.input.Touchscreen.Touch;
-import com.game.noosa.TouchArea;
+import com.watabou.input.Touchscreen.Touch;
+import com.watabou.noosa.TouchArea;
 import com.game.pixeldungeonrewards.DungeonTilemap;
 import com.game.pixeldungeonrewards.PixelDungeon;
-import com.game.utils.GameMath;
-import com.game.utils.PointF;
+import com.watabou.utils.GameMath;
+import com.watabou.utils.PointF;
 
 public class CellSelector extends TouchArea {
 

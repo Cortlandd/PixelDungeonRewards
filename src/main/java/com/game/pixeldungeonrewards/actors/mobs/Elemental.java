@@ -29,7 +29,7 @@ import com.game.pixeldungeonrewards.items.scrolls.ScrollOfPsionicBlast;
 import com.game.pixeldungeonrewards.items.wands.WandOfFirebolt;
 import com.game.pixeldungeonrewards.items.weapon.enchantments.Fire;
 import com.game.pixeldungeonrewards.sprites.ElementalSprite;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class Elemental extends Mob {
 

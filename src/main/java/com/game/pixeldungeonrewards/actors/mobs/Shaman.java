@@ -19,7 +19,7 @@ package com.game.pixeldungeonrewards.actors.mobs;
 
 import java.util.HashSet;
 
-import com.game.noosa.Camera;
+import com.watabou.noosa.Camera;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.ResultDescriptions;
 import com.game.pixeldungeonrewards.actors.Char;
@@ -32,8 +32,8 @@ import com.game.pixeldungeonrewards.sprites.CharSprite;
 import com.game.pixeldungeonrewards.sprites.ShamanSprite;
 import com.game.pixeldungeonrewards.utils.GLog;
 import com.game.pixeldungeonrewards.utils.Utils;
-import com.game.utils.Callback;
-import com.game.utils.Random;
+import com.watabou.utils.Callback;
+import com.watabou.utils.Random;
 
 public class Shaman extends Mob implements Callback {
 

@@ -25,7 +25,7 @@ import com.game.pixeldungeonrewards.actors.Actor;
 import com.game.pixeldungeonrewards.effects.BlobEmitter;
 import com.game.pixeldungeonrewards.levels.Level;
 import com.game.pixeldungeonrewards.utils.BArray;
-import com.game.utils.Bundle;
+import com.watabou.utils.Bundle;
 
 public class Blob extends Actor {
 	

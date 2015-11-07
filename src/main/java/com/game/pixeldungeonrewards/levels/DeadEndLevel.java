@@ -20,7 +20,7 @@ package com.game.pixeldungeonrewards.levels;
 import java.util.Arrays;
 
 import com.game.pixeldungeonrewards.Assets;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class DeadEndLevel extends Level {
 

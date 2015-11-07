@@ -17,17 +17,17 @@
  */
 package com.game.pixeldungeonrewards.scenes;
 
-import com.game.noosa.BitmapTextMultiline;
-import com.game.noosa.Camera;
-import com.game.noosa.Game;
-import com.game.noosa.Image;
+import com.watabou.noosa.BitmapTextMultiline;
+import com.watabou.noosa.Camera;
+import com.watabou.noosa.Game;
+import com.watabou.noosa.Image;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.ResultDescriptions;
 import com.game.pixeldungeonrewards.effects.Flare;
 import com.game.pixeldungeonrewards.effects.Speck;
 import com.game.pixeldungeonrewards.ui.RedButton;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class AmuletScene extends PixelScene {
 

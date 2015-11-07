@@ -17,7 +17,7 @@
  */
 package com.game.pixeldungeonrewards.sprites;
 
-import com.game.noosa.TextureFilm;
+import com.watabou.noosa.TextureFilm;
 import com.game.pixeldungeonrewards.Assets;
 
 public class StatueSprite extends MobSprite {

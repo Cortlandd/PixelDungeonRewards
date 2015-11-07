@@ -17,19 +17,19 @@
  */
 package com.game.pixeldungeonrewards.levels;
 
-import com.game.noosa.Game;
-import com.game.noosa.Scene;
-import com.game.noosa.particles.Emitter;
-import com.game.noosa.particles.PixelParticle;
+import com.watabou.noosa.Game;
+import com.watabou.noosa.Scene;
+import com.watabou.noosa.particles.Emitter;
+import com.watabou.noosa.particles.PixelParticle;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.DungeonTilemap;
 import com.game.pixeldungeonrewards.actors.mobs.npcs.Ghost;
 import com.game.pixeldungeonrewards.items.DewVial;
 import com.game.pixeldungeonrewards.scenes.GameScene;
-import com.game.utils.ColorMath;
-import com.game.utils.PointF;
-import com.game.utils.Random;
+import com.watabou.utils.ColorMath;
+import com.watabou.utils.PointF;
+import com.watabou.utils.Random;
 
 public class SewerLevel extends RegularLevel {
 

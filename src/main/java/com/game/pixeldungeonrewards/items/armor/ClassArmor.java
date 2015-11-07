@@ -21,7 +21,7 @@ import java.util.ArrayList;
 
 import com.game.pixeldungeonrewards.actors.hero.Hero;
 import com.game.pixeldungeonrewards.utils.GLog;
-import com.game.utils.Bundle;
+import com.watabou.utils.Bundle;
 
 abstract public class ClassArmor extends Armor {
 	

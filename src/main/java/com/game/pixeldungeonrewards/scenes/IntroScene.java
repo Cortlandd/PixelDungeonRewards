@@ -17,7 +17,7 @@
  */
 package com.game.pixeldungeonrewards.scenes;
 
-import com.game.noosa.Game;
+import com.watabou.noosa.Game;
 import com.game.pixeldungeonrewards.windows.WndStory;
 
 public class IntroScene extends PixelScene {

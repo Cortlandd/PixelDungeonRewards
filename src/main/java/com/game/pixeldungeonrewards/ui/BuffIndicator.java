@@ -17,17 +17,17 @@
  */
 package com.game.pixeldungeonrewards.ui;
 
-import com.game.gltextures.SmartTexture;
-import com.game.gltextures.TextureCache;
-import com.game.noosa.Image;
-import com.game.noosa.TextureFilm;
-import com.game.noosa.tweeners.AlphaTweener;
-import com.game.noosa.ui.Component;
+import com.watabou.gltextures.SmartTexture;
+import com.watabou.gltextures.TextureCache;
+import com.watabou.noosa.Image;
+import com.watabou.noosa.TextureFilm;
+import com.watabou.noosa.tweeners.AlphaTweener;
+import com.watabou.noosa.ui.Component;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.actors.Char;
 import com.game.pixeldungeonrewards.actors.buffs.Buff;
-import com.game.utils.SparseArray;
+import com.watabou.utils.SparseArray;
 
 public class BuffIndicator extends Component {
 

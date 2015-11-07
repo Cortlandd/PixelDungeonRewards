@@ -31,7 +31,7 @@ import com.game.pixeldungeonrewards.actors.buffs.Roots;
 import com.game.pixeldungeonrewards.items.food.MysteryMeat;
 import com.game.pixeldungeonrewards.levels.Level;
 import com.game.pixeldungeonrewards.sprites.PiranhaSprite;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class Piranha extends Mob {
 	

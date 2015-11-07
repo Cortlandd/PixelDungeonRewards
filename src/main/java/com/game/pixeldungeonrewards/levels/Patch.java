@@ -17,7 +17,7 @@
  */
 package com.game.pixeldungeonrewards.levels;
 
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class Patch {
 	

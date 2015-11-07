@@ -17,11 +17,11 @@
  */
 package com.game.pixeldungeonrewards.effects;
 
-import com.game.noosa.particles.Emitter;
+import com.watabou.noosa.particles.Emitter;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.DungeonTilemap;
 import com.game.pixeldungeonrewards.actors.blobs.Blob;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class BlobEmitter extends Emitter {
 

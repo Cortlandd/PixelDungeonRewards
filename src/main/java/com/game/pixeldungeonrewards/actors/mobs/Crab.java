@@ -21,7 +21,7 @@ import com.game.pixeldungeonrewards.actors.Char;
 import com.game.pixeldungeonrewards.actors.mobs.npcs.Ghost;
 import com.game.pixeldungeonrewards.items.food.MysteryMeat;
 import com.game.pixeldungeonrewards.sprites.CrabSprite;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class Crab extends Mob {
 

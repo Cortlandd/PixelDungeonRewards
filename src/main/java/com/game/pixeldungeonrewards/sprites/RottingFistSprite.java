@@ -17,8 +17,8 @@
  */
 package com.game.pixeldungeonrewards.sprites;
 
-import com.game.noosa.Camera;
-import com.game.noosa.TextureFilm;
+import com.watabou.noosa.Camera;
+import com.watabou.noosa.TextureFilm;
 import com.game.pixeldungeonrewards.Assets;
 
 public class RottingFistSprite extends MobSprite {

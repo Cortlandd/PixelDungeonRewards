@@ -17,7 +17,7 @@
  */
 package com.game.pixeldungeonrewards.items.armor;
 
-import com.game.noosa.Camera;
+import com.watabou.noosa.Camera;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.actors.Actor;
 import com.game.pixeldungeonrewards.actors.Char;
@@ -36,7 +36,7 @@ import com.game.pixeldungeonrewards.scenes.CellSelector;
 import com.game.pixeldungeonrewards.scenes.GameScene;
 import com.game.pixeldungeonrewards.sprites.ItemSpriteSheet;
 import com.game.pixeldungeonrewards.utils.GLog;
-import com.game.utils.Callback;
+import com.watabou.utils.Callback;
 
 public class WarriorArmor extends ClassArmor {
 	

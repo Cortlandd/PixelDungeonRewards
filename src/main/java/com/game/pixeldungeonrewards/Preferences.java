@@ -17,7 +17,7 @@
  */
 package com.game.pixeldungeonrewards;
 
-import com.game.noosa.Game;
+import com.watabou.noosa.Game;
 
 import android.content.SharedPreferences;
 

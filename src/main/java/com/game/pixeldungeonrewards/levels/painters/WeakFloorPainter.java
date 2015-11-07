@@ -20,8 +20,8 @@ package com.game.pixeldungeonrewards.levels.painters;
 import com.game.pixeldungeonrewards.levels.Level;
 import com.game.pixeldungeonrewards.levels.Room;
 import com.game.pixeldungeonrewards.levels.Terrain;
-import com.game.utils.Point;
-import com.game.utils.Random;
+import com.watabou.utils.Point;
+import com.watabou.utils.Random;
 
 public class WeakFloorPainter extends Painter {
 

@@ -30,7 +30,7 @@ import com.game.pixeldungeonrewards.effects.Pushing;
 import com.game.pixeldungeonrewards.items.weapon.enchantments.Death;
 import com.game.pixeldungeonrewards.levels.Level;
 import com.game.pixeldungeonrewards.sprites.CursePersonificationSprite;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class CursePersonification extends Mob {
 

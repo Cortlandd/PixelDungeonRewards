@@ -19,16 +19,16 @@ package com.game.pixeldungeonrewards.scenes;
 
 import java.util.HashMap;
 
-import com.game.noosa.BitmapText;
-import com.game.noosa.BitmapTextMultiline;
-import com.game.noosa.Camera;
-import com.game.noosa.Game;
-import com.game.noosa.Group;
-import com.game.noosa.Image;
-import com.game.noosa.audio.Sample;
-import com.game.noosa.particles.BitmaskEmitter;
-import com.game.noosa.particles.Emitter;
-import com.game.noosa.ui.Button;
+import com.watabou.noosa.BitmapText;
+import com.watabou.noosa.BitmapTextMultiline;
+import com.watabou.noosa.Camera;
+import com.watabou.noosa.Game;
+import com.watabou.noosa.Group;
+import com.watabou.noosa.Image;
+import com.watabou.noosa.audio.Sample;
+import com.watabou.noosa.particles.BitmaskEmitter;
+import com.watabou.noosa.particles.Emitter;
+import com.watabou.noosa.ui.Button;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Badges;
 import com.game.pixeldungeonrewards.Dungeon;
@@ -47,7 +47,7 @@ import com.game.pixeldungeonrewards.windows.WndChallenges;
 import com.game.pixeldungeonrewards.windows.WndClass;
 import com.game.pixeldungeonrewards.windows.WndMessage;
 import com.game.pixeldungeonrewards.windows.WndOptions;
-import com.game.utils.Callback;
+import com.watabou.utils.Callback;
 
 public class StartScene extends PixelScene {
 

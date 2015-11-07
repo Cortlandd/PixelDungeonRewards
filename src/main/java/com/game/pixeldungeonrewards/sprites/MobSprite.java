@@ -17,12 +17,12 @@
  */
 package com.game.pixeldungeonrewards.sprites;
 
-import com.game.noosa.tweeners.AlphaTweener;
-import com.game.noosa.tweeners.ScaleTweener;
+import com.watabou.noosa.tweeners.AlphaTweener;
+import com.watabou.noosa.tweeners.ScaleTweener;
 import com.game.pixeldungeonrewards.DungeonTilemap;
 import com.game.pixeldungeonrewards.actors.mobs.Mob;
-import com.game.utils.PointF;
-import com.game.utils.Random;
+import com.watabou.utils.PointF;
+import com.watabou.utils.Random;
 
 public class MobSprite extends CharSprite {
 

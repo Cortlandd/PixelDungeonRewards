@@ -17,7 +17,7 @@
  */
 package com.game.pixeldungeonrewards.items.scrolls;
 
-import com.game.noosa.audio.Sample;
+import com.watabou.noosa.audio.Sample;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.actors.buffs.Blindness;
@@ -26,7 +26,7 @@ import com.game.pixeldungeonrewards.actors.buffs.Invisibility;
 import com.game.pixeldungeonrewards.actors.mobs.Mob;
 import com.game.pixeldungeonrewards.levels.Level;
 import com.game.pixeldungeonrewards.scenes.GameScene;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class ScrollOfPsionicBlast extends Scroll {
 

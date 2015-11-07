@@ -25,7 +25,7 @@ import com.game.pixeldungeonrewards.actors.buffs.Frost;
 import com.game.pixeldungeonrewards.effects.CellEmitter;
 import com.game.pixeldungeonrewards.effects.particles.SnowParticle;
 import com.game.pixeldungeonrewards.items.Heap;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class Freezing {
 	

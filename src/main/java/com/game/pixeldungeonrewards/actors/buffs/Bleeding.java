@@ -23,9 +23,9 @@ import com.game.pixeldungeonrewards.effects.Splash;
 import com.game.pixeldungeonrewards.ui.BuffIndicator;
 import com.game.pixeldungeonrewards.utils.GLog;
 import com.game.pixeldungeonrewards.utils.Utils;
-import com.game.utils.Bundle;
-import com.game.utils.PointF;
-import com.game.utils.Random;
+import com.watabou.utils.Bundle;
+import com.watabou.utils.PointF;
+import com.watabou.utils.Random;
 
 public class Bleeding extends Buff {
 	

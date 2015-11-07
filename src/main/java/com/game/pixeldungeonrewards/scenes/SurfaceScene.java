@@ -19,30 +19,30 @@ package com.game.pixeldungeonrewards.scenes;
 
 import java.nio.FloatBuffer;
 
-import com.game.gltextures.Gradient;
-import com.game.gltextures.SmartTexture;
-import com.game.glwrap.Matrix;
-import com.game.glwrap.Quad;
-import com.game.input.Touchscreen.Touch;
-import com.game.noosa.Camera;
-import com.game.noosa.ColorBlock;
-import com.game.noosa.Game;
-import com.game.noosa.Group;
-import com.game.noosa.Image;
-import com.game.noosa.MovieClip;
-import com.game.noosa.NoosaScript;
-import com.game.noosa.TextureFilm;
-import com.game.noosa.TouchArea;
-import com.game.noosa.Visual;
-import com.game.noosa.audio.Music;
+import com.watabou.gltextures.Gradient;
+import com.watabou.gltextures.SmartTexture;
+import com.watabou.glwrap.Matrix;
+import com.watabou.glwrap.Quad;
+import com.watabou.input.Touchscreen.Touch;
+import com.watabou.noosa.Camera;
+import com.watabou.noosa.ColorBlock;
+import com.watabou.noosa.Game;
+import com.watabou.noosa.Group;
+import com.watabou.noosa.Image;
+import com.watabou.noosa.MovieClip;
+import com.watabou.noosa.NoosaScript;
+import com.watabou.noosa.TextureFilm;
+import com.watabou.noosa.TouchArea;
+import com.watabou.noosa.Visual;
+import com.watabou.noosa.audio.Music;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Badges;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.actors.hero.HeroClass;
 import com.game.pixeldungeonrewards.ui.Archs;
 import com.game.pixeldungeonrewards.ui.RedButton;
-import com.game.utils.Point;
-import com.game.utils.Random;
+import com.watabou.utils.Point;
+import com.watabou.utils.Random;
 
 public class SurfaceScene extends PixelScene {
 	

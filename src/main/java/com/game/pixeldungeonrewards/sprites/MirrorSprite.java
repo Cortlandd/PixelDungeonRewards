@@ -17,7 +17,7 @@
  */
 package com.game.pixeldungeonrewards.sprites;
 
-import com.game.noosa.TextureFilm;
+import com.watabou.noosa.TextureFilm;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.actors.Char;
 import com.game.pixeldungeonrewards.actors.mobs.npcs.MirrorImage;

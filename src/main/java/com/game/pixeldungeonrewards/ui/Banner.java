@@ -17,8 +17,8 @@
  */
 package com.game.pixeldungeonrewards.ui;
 
-import com.game.noosa.Game;
-import com.game.noosa.Image;
+import com.watabou.noosa.Game;
+import com.watabou.noosa.Image;
 
 public class Banner extends Image {
 

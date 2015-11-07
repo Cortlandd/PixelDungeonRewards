@@ -19,7 +19,7 @@ package com.game.pixeldungeonrewards.plants;
 
 import java.util.ArrayList;
 
-import com.game.noosa.audio.Sample;
+import com.watabou.noosa.audio.Sample;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.actors.Char;
@@ -36,9 +36,9 @@ import com.game.pixeldungeonrewards.levels.Level;
 import com.game.pixeldungeonrewards.levels.Terrain;
 import com.game.pixeldungeonrewards.sprites.PlantSprite;
 import com.game.pixeldungeonrewards.utils.Utils;
-import com.game.utils.Bundlable;
-import com.game.utils.Bundle;
-import com.game.utils.Random;
+import com.watabou.utils.Bundlable;
+import com.watabou.utils.Bundle;
+import com.watabou.utils.Random;
 
 public class Plant implements Bundlable {
 

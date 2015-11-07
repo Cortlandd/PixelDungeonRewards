@@ -17,8 +17,8 @@
  */
 package com.game.pixeldungeonrewards.ui;
 
-import com.game.noosa.Image;
-import com.game.noosa.ui.Button;
+import com.watabou.noosa.Image;
+import com.watabou.noosa.ui.Button;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.DungeonTilemap;
 import com.game.pixeldungeonrewards.actors.Actor;
@@ -30,7 +30,7 @@ import com.game.pixeldungeonrewards.mechanics.Ballistica;
 import com.game.pixeldungeonrewards.scenes.GameScene;
 import com.game.pixeldungeonrewards.scenes.PixelScene;
 import com.game.pixeldungeonrewards.windows.WndBag;
-import com.game.utils.Bundle;
+import com.watabou.utils.Bundle;
 
 public class QuickSlot extends Button implements WndBag.Listener {
 

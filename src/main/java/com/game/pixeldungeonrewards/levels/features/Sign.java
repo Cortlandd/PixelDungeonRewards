@@ -17,7 +17,7 @@
  */
 package com.game.pixeldungeonrewards.levels.features;
 
-import com.game.noosa.audio.Sample;
+import com.watabou.noosa.audio.Sample;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.effects.CellEmitter;

@@ -52,7 +52,7 @@ import com.game.pixeldungeonrewards.sprites.RottingFistSprite;
 import com.game.pixeldungeonrewards.sprites.YogSprite;
 import com.game.pixeldungeonrewards.utils.GLog;
 import com.game.pixeldungeonrewards.utils.Utils;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class Yog extends Mob {
 	

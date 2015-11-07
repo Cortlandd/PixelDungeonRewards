@@ -17,10 +17,10 @@
  */
 package com.game.pixeldungeonrewards.ui;
 
-import com.game.noosa.Game;
-import com.game.noosa.Image;
-import com.game.noosa.audio.Sample;
-import com.game.noosa.ui.Button;
+import com.watabou.noosa.Game;
+import com.watabou.noosa.Image;
+import com.watabou.noosa.audio.Sample;
+import com.watabou.noosa.ui.Button;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.PixelDungeon;
 import com.game.pixeldungeonrewards.scenes.TitleScene;

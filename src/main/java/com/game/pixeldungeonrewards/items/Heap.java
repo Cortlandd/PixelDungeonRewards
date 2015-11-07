@@ -20,8 +20,8 @@ package com.game.pixeldungeonrewards.items;
 import java.util.Collection;
 import java.util.LinkedList;
 
-import com.game.noosa.audio.Sample;
-import com.game.noosa.tweeners.AlphaTweener;
+import com.watabou.noosa.audio.Sample;
+import com.watabou.noosa.tweeners.AlphaTweener;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Badges;
 import com.game.pixeldungeonrewards.Dungeon;
@@ -46,9 +46,9 @@ import com.game.pixeldungeonrewards.plants.Plant.Seed;
 import com.game.pixeldungeonrewards.sprites.ItemSprite;
 import com.game.pixeldungeonrewards.sprites.ItemSpriteSheet;
 import com.game.pixeldungeonrewards.utils.GLog;
-import com.game.utils.Bundlable;
-import com.game.utils.Bundle;
-import com.game.utils.Random;
+import com.watabou.utils.Bundlable;
+import com.watabou.utils.Bundle;
+import com.watabou.utils.Random;
 
 public class Heap implements Bundlable {
 

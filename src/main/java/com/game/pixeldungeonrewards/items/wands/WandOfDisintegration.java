@@ -30,8 +30,8 @@ import com.game.pixeldungeonrewards.levels.Level;
 import com.game.pixeldungeonrewards.levels.Terrain;
 import com.game.pixeldungeonrewards.mechanics.Ballistica;
 import com.game.pixeldungeonrewards.scenes.GameScene;
-import com.game.utils.Callback;
-import com.game.utils.Random;
+import com.watabou.utils.Callback;
+import com.watabou.utils.Random;
 
 public class WandOfDisintegration extends Wand {
 

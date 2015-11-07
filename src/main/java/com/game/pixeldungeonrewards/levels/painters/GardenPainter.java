@@ -23,7 +23,7 @@ import com.game.pixeldungeonrewards.levels.Level;
 import com.game.pixeldungeonrewards.levels.Room;
 import com.game.pixeldungeonrewards.levels.Terrain;
 import com.game.pixeldungeonrewards.plants.Sungrass;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class GardenPainter extends Painter {
 

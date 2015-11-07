@@ -24,7 +24,7 @@ import com.game.pixeldungeonrewards.effects.Speck;
 import com.game.pixeldungeonrewards.items.potions.PotionOfHealing;
 import com.game.pixeldungeonrewards.items.weapon.enchantments.Leech;
 import com.game.pixeldungeonrewards.sprites.BatSprite;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class Bat extends Mob {
 

@@ -17,7 +17,7 @@
  */
 package com.game.pixeldungeonrewards.items.armor.glyphs;
 
-import com.game.noosa.Camera;
+import com.watabou.noosa.Camera;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.actors.Char;
 import com.game.pixeldungeonrewards.effects.Lightning;
@@ -27,7 +27,7 @@ import com.game.pixeldungeonrewards.levels.Level;
 import com.game.pixeldungeonrewards.levels.traps.LightningTrap;
 import com.game.pixeldungeonrewards.sprites.ItemSprite;
 import com.game.pixeldungeonrewards.sprites.ItemSprite.Glowing;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class Potential extends Glyph {
 

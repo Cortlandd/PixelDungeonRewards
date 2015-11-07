@@ -17,13 +17,13 @@
  */
 package com.game.pixeldungeonrewards;
 
-import com.game.noosa.Image;
-import com.game.noosa.TextureFilm;
-import com.game.noosa.Tilemap;
-import com.game.noosa.tweeners.AlphaTweener;
+import com.watabou.noosa.Image;
+import com.watabou.noosa.TextureFilm;
+import com.watabou.noosa.Tilemap;
+import com.watabou.noosa.tweeners.AlphaTweener;
 import com.game.pixeldungeonrewards.levels.Level;
-import com.game.utils.Point;
-import com.game.utils.PointF;
+import com.watabou.utils.Point;
+import com.watabou.utils.PointF;
 
 public class DungeonTilemap extends Tilemap {
 

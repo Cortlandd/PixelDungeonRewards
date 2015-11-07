@@ -17,16 +17,16 @@
  */
 package com.game.pixeldungeonrewards.levels;
 
-import com.game.noosa.Scene;
-import com.game.noosa.particles.Emitter;
-import com.game.noosa.particles.PixelParticle;
+import com.watabou.noosa.Scene;
+import com.watabou.noosa.particles.Emitter;
+import com.watabou.noosa.particles.PixelParticle;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.DungeonTilemap;
 import com.game.pixeldungeonrewards.actors.mobs.npcs.Imp;
 import com.game.pixeldungeonrewards.levels.Room.Type;
-import com.game.utils.PointF;
-import com.game.utils.Random;
+import com.watabou.utils.PointF;
+import com.watabou.utils.Random;
 
 public class CityLevel extends RegularLevel {
 

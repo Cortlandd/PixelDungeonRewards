@@ -21,7 +21,7 @@ import javax.microedition.khronos.opengles.GL10;
 
 import android.opengl.GLES20;
 
-import com.game.noosa.Game;
+import com.watabou.noosa.Game;
 import com.game.pixeldungeonrewards.sprites.CharSprite;
 
 public class TorchHalo extends Halo {

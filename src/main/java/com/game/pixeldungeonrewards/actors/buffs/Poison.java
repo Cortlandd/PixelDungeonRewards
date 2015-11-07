@@ -26,7 +26,7 @@ import com.game.pixeldungeonrewards.items.rings.RingOfElements.Resistance;
 import com.game.pixeldungeonrewards.ui.BuffIndicator;
 import com.game.pixeldungeonrewards.utils.GLog;
 import com.game.pixeldungeonrewards.utils.Utils;
-import com.game.utils.Bundle;
+import com.watabou.utils.Bundle;
 
 public class Poison extends Buff implements Hero.Doom {
 	

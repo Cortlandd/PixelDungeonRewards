@@ -17,7 +17,7 @@
  */
 package com.game.pixeldungeonrewards.levels.traps;
 
-import com.game.noosa.Camera;
+import com.watabou.noosa.Camera;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.ResultDescriptions;
 import com.game.pixeldungeonrewards.actors.Char;
@@ -28,7 +28,7 @@ import com.game.pixeldungeonrewards.effects.particles.SparkParticle;
 import com.game.pixeldungeonrewards.levels.Level;
 import com.game.pixeldungeonrewards.utils.GLog;
 import com.game.pixeldungeonrewards.utils.Utils;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class LightningTrap {
 

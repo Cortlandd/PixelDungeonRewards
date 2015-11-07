@@ -22,7 +22,7 @@ import com.game.pixeldungeonrewards.actors.Char;
 import com.game.pixeldungeonrewards.actors.buffs.Bleeding;
 import com.game.pixeldungeonrewards.actors.buffs.Buff;
 import com.game.pixeldungeonrewards.sprites.AlbinoSprite;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class Albino extends Rat {
 

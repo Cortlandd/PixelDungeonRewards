@@ -21,7 +21,7 @@ import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.items.Item;
 import com.game.pixeldungeonrewards.items.weapon.Weapon;
 import com.game.pixeldungeonrewards.utils.Utils;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class MeleeWeapon extends Weapon {
 	

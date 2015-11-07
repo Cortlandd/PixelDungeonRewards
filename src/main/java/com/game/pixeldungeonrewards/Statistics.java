@@ -17,7 +17,7 @@
  */
 package com.game.pixeldungeonrewards;
 
-import com.game.utils.Bundle;
+import com.watabou.utils.Bundle;
 
 public class Statistics {
 	

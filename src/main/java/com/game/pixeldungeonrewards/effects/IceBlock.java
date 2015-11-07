@@ -17,9 +17,9 @@
  */
 package com.game.pixeldungeonrewards.effects;
 
-import com.game.noosa.Game;
-import com.game.noosa.Gizmo;
-import com.game.noosa.audio.Sample;
+import com.watabou.noosa.Game;
+import com.watabou.noosa.Gizmo;
+import com.watabou.noosa.audio.Sample;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.sprites.CharSprite;
 

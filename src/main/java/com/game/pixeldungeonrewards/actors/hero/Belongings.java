@@ -30,8 +30,8 @@ import com.game.pixeldungeonrewards.items.keys.Key;
 import com.game.pixeldungeonrewards.items.rings.Ring;
 import com.game.pixeldungeonrewards.items.scrolls.ScrollOfRemoveCurse;
 import com.game.pixeldungeonrewards.items.wands.Wand;
-import com.game.utils.Bundle;
-import com.game.utils.Random;
+import com.watabou.utils.Bundle;
+import com.watabou.utils.Random;
 
 public class Belongings implements Iterable<Item> {
 

@@ -21,7 +21,7 @@ import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.actors.mobs.Mob;
 import com.game.pixeldungeonrewards.items.Heap;
 import com.game.pixeldungeonrewards.levels.Level;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public abstract class NPC extends Mob {
 	

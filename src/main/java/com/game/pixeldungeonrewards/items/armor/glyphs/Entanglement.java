@@ -17,7 +17,7 @@
  */
 package com.game.pixeldungeonrewards.items.armor.glyphs;
 
-import com.game.noosa.Camera;
+import com.watabou.noosa.Camera;
 import com.game.pixeldungeonrewards.actors.Char;
 import com.game.pixeldungeonrewards.actors.buffs.Buff;
 import com.game.pixeldungeonrewards.actors.buffs.Roots;
@@ -28,7 +28,7 @@ import com.game.pixeldungeonrewards.items.armor.Armor.Glyph;
 import com.game.pixeldungeonrewards.plants.Earthroot;
 import com.game.pixeldungeonrewards.sprites.ItemSprite;
 import com.game.pixeldungeonrewards.sprites.ItemSprite.Glowing;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class Entanglement extends Glyph {
 

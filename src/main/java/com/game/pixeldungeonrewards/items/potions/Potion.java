@@ -20,7 +20,7 @@
 import java.util.ArrayList;
 import java.util.HashSet;
 
-import com.game.noosa.audio.Sample;
+import com.watabou.noosa.audio.Sample;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Badges;
 import com.game.pixeldungeonrewards.Dungeon;
@@ -35,7 +35,7 @@ import com.game.pixeldungeonrewards.sprites.ItemSprite;
 import com.game.pixeldungeonrewards.sprites.ItemSpriteSheet;
 import com.game.pixeldungeonrewards.utils.GLog;
 import com.game.pixeldungeonrewards.windows.WndOptions;
-import com.game.utils.Bundle;
+import com.watabou.utils.Bundle;
 
 public class Potion extends Item {
 	

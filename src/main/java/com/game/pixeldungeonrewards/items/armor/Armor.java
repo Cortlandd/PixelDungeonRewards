@@ -30,9 +30,9 @@ import com.game.pixeldungeonrewards.sprites.HeroSprite;
 import com.game.pixeldungeonrewards.sprites.ItemSprite;
 import com.game.pixeldungeonrewards.utils.GLog;
 import com.game.pixeldungeonrewards.utils.Utils;
-import com.game.utils.Bundlable;
-import com.game.utils.Bundle;
-import com.game.utils.Random;
+import com.watabou.utils.Bundlable;
+import com.watabou.utils.Bundle;
+import com.watabou.utils.Random;
 
 public class Armor extends EquipableItem {
 	

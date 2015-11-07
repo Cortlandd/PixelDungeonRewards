@@ -27,7 +27,7 @@ import com.game.pixeldungeonrewards.actors.buffs.Paralysis;
 import com.game.pixeldungeonrewards.items.quest.RatSkull;
 import com.game.pixeldungeonrewards.scenes.GameScene;
 import com.game.pixeldungeonrewards.sprites.FetidRatSprite;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class FetidRat extends Mob {
 

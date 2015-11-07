@@ -23,8 +23,8 @@ import java.util.Collection;
 import java.util.HashMap;
 import java.util.HashSet;
 
-import com.game.noosa.Scene;
-import com.game.noosa.audio.Sample;
+import com.watabou.noosa.Scene;
+import com.watabou.noosa.audio.Sample;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Challenges;
 import com.game.pixeldungeonrewards.Dungeon;
@@ -67,10 +67,10 @@ import com.game.pixeldungeonrewards.mechanics.ShadowCaster;
 import com.game.pixeldungeonrewards.plants.Plant;
 import com.game.pixeldungeonrewards.scenes.GameScene;
 import com.game.pixeldungeonrewards.utils.GLog;
-import com.game.utils.Bundlable;
-import com.game.utils.Bundle;
-import com.game.utils.Random;
-import com.game.utils.SparseArray;
+import com.watabou.utils.Bundlable;
+import com.watabou.utils.Bundle;
+import com.watabou.utils.Random;
+import com.watabou.utils.SparseArray;
 
 public abstract class Level implements Bundlable {
 	

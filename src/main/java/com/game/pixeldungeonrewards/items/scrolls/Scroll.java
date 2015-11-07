@@ -28,7 +28,7 @@ import com.game.pixeldungeonrewards.items.ItemStatusHandler;
 import com.game.pixeldungeonrewards.sprites.HeroSprite;
 import com.game.pixeldungeonrewards.sprites.ItemSpriteSheet;
 import com.game.pixeldungeonrewards.utils.GLog;
-import com.game.utils.Bundle;
+import com.watabou.utils.Bundle;
 
 public abstract class Scroll extends Item {
 

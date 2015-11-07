@@ -20,13 +20,13 @@ package com.game.pixeldungeonrewards.ui;
 import java.util.ArrayList;
 import java.util.regex.Pattern;
 
-import com.game.noosa.BitmapTextMultiline;
-import com.game.noosa.ui.Component;
+import com.watabou.noosa.BitmapTextMultiline;
+import com.watabou.noosa.ui.Component;
 import com.game.pixeldungeonrewards.scenes.PixelScene;
 import com.game.pixeldungeonrewards.sprites.CharSprite;
 import com.game.pixeldungeonrewards.utils.GLog;
 import com.game.pixeldungeonrewards.utils.Utils;
-import com.game.utils.Signal;
+import com.watabou.utils.Signal;
 
 public class GameLog extends Component implements Signal.Listener<String> {
 

@@ -17,9 +17,9 @@
  */
 package com.game.pixeldungeonrewards.levels.features;
 
-import com.game.noosa.Camera;
-import com.game.noosa.Game;
-import com.game.noosa.audio.Sample;
+import com.watabou.noosa.Camera;
+import com.watabou.noosa.Game;
+import com.watabou.noosa.audio.Sample;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Badges;
 import com.game.pixeldungeonrewards.Dungeon;
@@ -36,7 +36,7 @@ import com.game.pixeldungeonrewards.sprites.MobSprite;
 import com.game.pixeldungeonrewards.utils.GLog;
 import com.game.pixeldungeonrewards.utils.Utils;
 import com.game.pixeldungeonrewards.windows.WndOptions;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class Chasm {
 	

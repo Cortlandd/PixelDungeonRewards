@@ -26,7 +26,7 @@ import com.game.pixeldungeonrewards.actors.mobs.Eye;
 import com.game.pixeldungeonrewards.actors.mobs.Warlock;
 import com.game.pixeldungeonrewards.actors.mobs.Yog;
 import com.game.pixeldungeonrewards.levels.traps.LightningTrap;
-import com.game.utils.Random;
+import com.watabou.utils.Random;
 
 public class RingOfElements extends Ring {
 

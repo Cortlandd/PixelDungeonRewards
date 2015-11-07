@@ -17,7 +17,7 @@
  */
 package com.game.pixeldungeonrewards.items.potions;
 
-import com.game.noosa.audio.Sample;
+import com.watabou.noosa.audio.Sample;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.actors.blobs.Blob;

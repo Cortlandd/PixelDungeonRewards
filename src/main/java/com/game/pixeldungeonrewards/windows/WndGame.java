@@ -19,7 +19,7 @@ package com.game.pixeldungeonrewards.windows;
 
 import java.io.IOException;
 
-import com.game.noosa.Game;
+import com.watabou.noosa.Game;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.PixelDungeon;
 import com.game.pixeldungeonrewards.scenes.GameScene;

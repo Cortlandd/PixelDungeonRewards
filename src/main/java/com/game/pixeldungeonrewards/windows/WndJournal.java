@@ -19,9 +19,9 @@ package com.game.pixeldungeonrewards.windows;
 
 import java.util.Collections;
 
-import com.game.noosa.BitmapText;
-import com.game.noosa.Image;
-import com.game.noosa.ui.Component;
+import com.watabou.noosa.BitmapText;
+import com.watabou.noosa.Image;
+import com.watabou.noosa.ui.Component;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.Journal;
 import com.game.pixeldungeonrewards.PixelDungeon;

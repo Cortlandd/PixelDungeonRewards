@@ -17,7 +17,7 @@
  */
 package com.game.pixeldungeonrewards.windows;
 
-import com.game.noosa.BitmapTextMultiline;
+import com.watabou.noosa.BitmapTextMultiline;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.actors.hero.Hero;
 import com.game.pixeldungeonrewards.actors.mobs.npcs.Shopkeeper;

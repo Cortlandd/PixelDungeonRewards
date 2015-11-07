@@ -17,7 +17,7 @@
  */
 package com.game.pixeldungeonrewards.effects;
 
-import com.game.noosa.Image;
+import com.watabou.noosa.Image;
 import com.game.pixeldungeonrewards.Assets;
 
 public class Effects {

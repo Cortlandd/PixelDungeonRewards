@@ -17,7 +17,7 @@
  */
 package com.game.pixeldungeonrewards.items.wands;
 
-import com.game.noosa.audio.Sample;
+import com.watabou.noosa.audio.Sample;
 import com.game.pixeldungeonrewards.Assets;
 import com.game.pixeldungeonrewards.Dungeon;
 import com.game.pixeldungeonrewards.actors.blobs.Blob;
@@ -28,7 +28,7 @@ import com.game.pixeldungeonrewards.levels.Terrain;
 import com.game.pixeldungeonrewards.mechanics.Ballistica;
 import com.game.pixeldungeonrewards.scenes.GameScene;
 import com.game.pixeldungeonrewards.utils.GLog;
-import com.game.utils.Callback;
+import com.watabou.utils.Callback;
 
 public class WandOfRegrowth extends Wand {
 

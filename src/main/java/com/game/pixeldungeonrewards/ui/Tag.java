@@ -17,9 +17,9 @@
  */
 package com.game.pixeldungeonrewards.ui;
 
-import com.game.noosa.Game;
-import com.game.noosa.NinePatch;
-import com.game.noosa.ui.Button;
+import com.watabou.noosa.Game;
+import com.watabou.noosa.NinePatch;
+import com.watabou.noosa.ui.Button;
 import com.game.pixeldungeonrewards.Chrome;
 
 public class Tag extends Button {

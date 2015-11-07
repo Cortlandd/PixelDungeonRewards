@@ -24,12 +24,12 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 
-import com.game.noosa.Game;
+import com.watabou.noosa.Game;
 import com.game.pixeldungeonrewards.actors.hero.HeroClass;
 import com.game.pixeldungeonrewards.utils.Utils;
-import com.game.utils.Bundlable;
-import com.game.utils.Bundle;
-import com.game.utils.SystemTime;
+import com.watabou.utils.Bundlable;
+import com.watabou.utils.Bundle;
+import com.watabou.utils.SystemTime;
 
 public enum Rankings {
 	
